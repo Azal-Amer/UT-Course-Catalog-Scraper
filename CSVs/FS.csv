@@ -1,0 +1,9 @@
+Class Name,Unique,Day,Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
+ENM  380E 1-MANAGING PEOPLE/ORGANIZATN         ,17655,FS,8:00 a.m.-5:00 p.m.,ECJ 1.318,Face-to-face,"DALY, JOHN A",open,,
+ISP  382 PUBLIC POLICY/INF SECRTY/PRVCY         ,27577,FS,8:00 a.m.-12:00 p.m.,TCC 1.124,Face-to-face,"WYATT, MICHAEL SEAN",open,,
+ISP  388 LAW GOVRNING INFO SECRTY/PRVCY         ,27578,FS,8:00 a.m.-12:00 p.m.,TCC 3.102,Face-to-face,,open,,
+LAW  196V EXPLORING IN-HOUSE PRACTICE         ,28585,FS,9:30 a.m.-5:00 p.m.,TNH 2.140,Face-to-face,"BLOUNT, SUSAN L",open; reserved,,
+LAW  196V SPECIAL TPCS/IN-HOUSE PRAC         ,28600,FS,9:30 a.m.-5:00 p.m.,TNH 2.140,Face-to-face,"BLOUNT, SUSAN L",open; reserved,,
+LAW  296V INTNL LAW OF CYBER CONFLICT         ,28615,FS,9:30 a.m.-5:00 p.m.,TNH 2.140,Face-to-face,"SCHMITT, MICHAEL N",open; reserved,,
+ISP  381 INFORMATION/PRIVACY IN SOCIETY         ,27576,FS,1:00 p.m.-5:00 p.m.,TCC 1.124,Face-to-face,"SLOTA, STEPHENBERKELAAR, BRENDA LFLEISCHMANN, KENNETH ROBE",open,,
+ISP  388L PROFESSNL EXPERIENCE/PROJ         ,27579,FS,1:00 p.m.-5:00 p.m.,TCC 3.102,Face-to-face,"BARBER, SUZANNE",open,,
