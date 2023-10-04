@@ -1,6 +1,7 @@
-Class Name,Unique,Day,Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
-HDO  382 APPROACHES TO LEADERSHIP         ,29610,S,8:30 a.m.-11:30 a.m.,IC2 3.128,Face-to-face,"SURI, JEREMI",open,,
-ELP  384D ADMIN OF INDIVIDUAL SCHOOL         ,11210,S,9:00 a.m.-12:00 p.m.,SZB 2.418,Hybrid or Blended,"CANTU, DEBRA",open; reserved,,
-HDO  391 QUANTITATIVE RESEARCH METHODS         ,29625,S,12:30 p.m.-3:30 p.m.,IC2 3.128,Face-to-face,"ROSE, MARY",open,,
-"ELP  384R SCHL, FAM, COMM ENGAGEMENT         ",11240,S,1:00 p.m.-4:00 p.m.,SZB 2.418,Hybrid or Blended,"DEMATTHEWS, DAVID EDWARD",open; reserved,,
-HDO  289 WRITING/RESEARCHING ORGS         ,29620,S,3:30 p.m.-5:30 p.m.,IC2 3.128,Face-to-face,"BOYLE, CASEY A",open,,
+Class Name,Unique,Day + Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
+,Unique,(),(),Instruction Mode,Instructor,Status,Flags,Core
+HDO  382 APPROACHES TO LEADERSHIP         ,29610,"(('S', '8:30 a.m.-11:30 a.m.'),)","('IC2 3.128',)",Face-to-face,"SURI, JEREMI",open,,
+ELP  384D ADMIN OF INDIVIDUAL SCHOOL         ,11210,"(('S', '9:00 a.m.-12:00 p.m.'),)","('SZB 2.418',)",Hybrid or Blended,"CANTU, DEBRA",open; reserved,,
+HDO  391 QUANTITATIVE RESEARCH METHODS         ,29625,"(('S', '12:30 p.m.-3:30 p.m.'),)","('IC2 3.128',)",Face-to-face,"ROSE, MARY",open,,
+"ELP  384R SCHL, FAM, COMM ENGAGEMENT         ",11240,"(('S', '1:00 p.m.-4:00 p.m.'),)","('SZB 2.418',)",Hybrid or Blended,"DEMATTHEWS, DAVID EDWARD",open; reserved,,
+HDO  289 WRITING/RESEARCHING ORGS         ,29620,"(('S', '3:30 p.m.-5:30 p.m.'),)","('IC2 3.128',)",Face-to-face,"BOYLE, CASEY A",open,,

@@ -1,5 +1,6 @@
-Class Name,Unique,Day,Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
-GK  507 FIRST-YEAR GREEK II         ,33080,MTWTHF,10:00 a.m.-11:00 a.m.,WAG 10,Face-to-face,,open,,
-CHE  319 TRANSPORT PHENOMENA         ,15275,MTWTHF,11:30 a.m.-2:30 p.m.,CPE 2.222,Face-to-face,"EDISON, THOMAS A",open; reserved,,
-ENS  188P BUTLER OPERA PRODUCTIONS         ,21785,MTWTHF,3:30 p.m.-6:30 p.m.,PAC 3.412,Face-to-face,"SANIKIDZE, TAMARAKINNEY, DOUGLASBRUCE, GARNETT",open,,
-P A  384F ADVANCED PUBLIC MANAGEMENT         ,59305,MTWTHF,5:30 p.m.-8:30 p.m.,SRH 3.124,Face-to-face,"MCRAVEN, WILLIAM HGILL, MATTHEW",open,,
+Class Name,Unique,Day + Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
+,Unique,(),(),Instruction Mode,Instructor,Status,Flags,Core
+GK  507 FIRST-YEAR GREEK II         ,33080,"(('MTWTHF', '10:00 a.m.-11:00 a.m.'),)","('WAG 10',)",Face-to-face,,open,,
+CHE  319 TRANSPORT PHENOMENA         ,15275,"(('MTWTHF', '11:30 a.m.-2:30 p.m.'),)","('CPE 2.222',)",Face-to-face,"EDISON, THOMAS A",open; reserved,,
+ENS  188P BUTLER OPERA PRODUCTIONS         ,21785,"(('MTWTHF', '3:30 p.m.-6:30 p.m.'),)","('PAC 3.412',)",Face-to-face,"SANIKIDZE, TAMARAKINNEY, DOUGLASBRUCE, GARNETT",open,,
+P A  384F ADVANCED PUBLIC MANAGEMENT         ,59305,"(('MTWTHF', '5:30 p.m.-8:30 p.m.'),)","('SRH 3.124',)",Face-to-face,"MCRAVEN, WILLIAM HGILL, MATTHEW",open,,

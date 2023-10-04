@@ -1,4 +1,5 @@
-Class Name,Unique,Day,Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
-T D  354F FOUNDATIONS OF ACTING         ,26005,TF,10:00 a.m.-2:00 p.m.,,Face-to-face,"FINE, HOWARD L",open; reserved,,
-LAW  280T PERSUASIVE WRTG AND ADVOCACY         ,28015,TF,10:30 a.m.-11:45 a.m.,TNH 3.126,Face-to-face,"DAWSON, EDWARD CALDWELL",open; reserved,,
-LAW  280T PERSUASIVE WRTG AND ADVOCACY         ,28060,TF,10:30 a.m.-11:45 a.m.,TNH 2.123,Face-to-face,"PERIS, SHANNON L",open; reserved,,
+Class Name,Unique,Day + Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
+,Unique,(),(),Instruction Mode,Instructor,Status,Flags,Core
+T D  354F FOUNDATIONS OF ACTING         ,26005,"(('TF', '10:00 a.m.-2:00 p.m.'),)","(' ',)",Face-to-face,"FINE, HOWARD L",open; reserved,,
+LAW  280T PERSUASIVE WRTG AND ADVOCACY         ,28015,"(('TF', '10:30 a.m.-11:45 a.m.'),)","('TNH 3.126',)",Face-to-face,"DAWSON, EDWARD CALDWELL",open; reserved,,
+LAW  280T PERSUASIVE WRTG AND ADVOCACY         ,28060,"(('TF', '10:30 a.m.-11:45 a.m.'),)","('TNH 2.123',)",Face-to-face,"PERIS, SHANNON L",open; reserved,,

@@ -1,8 +1,9 @@
-Class Name,Unique,Day,Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
-T D  311D PERFORMANCE AS COLLAB PRACTICE         ,25640,TTHF,11:00 a.m.-12:30 p.m.,LTH 1.110,Face-to-face,"DOSSETT, LARA ROSEGRAPKO, ANDY",open; reserved,,
-T D  311D PERFORMANCE AS COLLAB PRACTICE         ,25645,TTHF,11:00 a.m.-12:30 p.m.,WIN 1.148,Face-to-face,"BARRETO, RAQUEL M",open; reserved,,
-T D  311D PERFORMANCE AS COLLAB PRACTICE         ,25650,TTHF,11:00 a.m.-12:30 p.m.,WIN 1.164,Face-to-face,"SHAW, PATRICK FORSYTHECOSENTINO, HAL",open; reserved,,
-T D  312F BALLET TECHNIQUE         ,25665,TTHF,11:00 a.m.-1:00 p.m.,RSC 1.104,Face-to-face,"COOK, MIRA B",open; reserved,,
-T D  312G INTERMEDIATE BALLET TECHNIQUE         ,25670,TTHF,11:00 a.m.-1:00 p.m.,WIN 1.172,Face-to-face,"MEADOR, RACHEL E",open; reserved,,
-T D  322F BALLET TECHNIQUE         ,25810,TTHF,11:00 a.m.-1:00 p.m.,RSC 1.104,Face-to-face,"COOK, MIRA B",open; reserved,,
-T D  322J ADVANCED BALLET TECHNIQUE         ,25815,TTHF,11:00 a.m.-1:00 p.m.,BEL 502A,Face-to-face,"RILEY, MAGDALENA JARKOWIE",open; reserved,,
+Class Name,Unique,Day + Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
+,Unique,(),(),Instruction Mode,Instructor,Status,Flags,Core
+T D  311D PERFORMANCE AS COLLAB PRACTICE         ,25640,"(('TTHF', '11:00 a.m.-12:30 p.m.'),)","('LTH 1.110',)",Face-to-face,"DOSSETT, LARA ROSEGRAPKO, ANDY",open; reserved,,
+T D  311D PERFORMANCE AS COLLAB PRACTICE         ,25645,"(('TTHF', '11:00 a.m.-12:30 p.m.'),)","('WIN 1.148',)",Face-to-face,"BARRETO, RAQUEL M",open; reserved,,
+T D  311D PERFORMANCE AS COLLAB PRACTICE         ,25650,"(('TTHF', '11:00 a.m.-12:30 p.m.'),)","('WIN 1.164',)",Face-to-face,"SHAW, PATRICK FORSYTHECOSENTINO, HAL",open; reserved,,
+T D  312F BALLET TECHNIQUE         ,25665,"(('TTHF', '11:00 a.m.-1:00 p.m.'),)","('RSC 1.104',)",Face-to-face,"COOK, MIRA B",open; reserved,,
+T D  312G INTERMEDIATE BALLET TECHNIQUE         ,25670,"(('TTHF', '11:00 a.m.-1:00 p.m.'),)","('WIN 1.172',)",Face-to-face,"MEADOR, RACHEL E",open; reserved,,
+T D  322F BALLET TECHNIQUE         ,25810,"(('TTHF', '11:00 a.m.-1:00 p.m.'),)","('RSC 1.104',)",Face-to-face,"COOK, MIRA B",open; reserved,,
+T D  322J ADVANCED BALLET TECHNIQUE         ,25815,"(('TTHF', '11:00 a.m.-1:00 p.m.'),)","('BEL 502A',)",Face-to-face,"RILEY, MAGDALENA JARKOWIE",open; reserved,,

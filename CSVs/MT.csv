@@ -1,7 +1,8 @@
-Class Name,Unique,Day,Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
-LAW  496W HIST/DSGN MOVEMENT LAWYERING         ,28770,MT,9:45 a.m.-11:45 a.m.,CCJ 3.306,Face-to-face,"MCCORMACK, TRACY W",open; reserved,,
-N  321 ETHICS OF HEALTH CARE         ,56895,MT,12:30 p.m.-2:00 p.m.,NUR 4.176,Face-to-face,"KWAK, JUNG",open,EthicsWriting,
-LAW  481J NEGOTIATION         ,28138,MT,1:00 p.m.-3:00 p.m.,JON 6.207,Face-to-face,"MCCORMACK, TRACY W",open; reserved,,
-N  321 ETHICS OF HEALTH CARE         ,56900,MT,1:00 p.m.-2:30 p.m.,NUR 5.178,Face-to-face,"OSIER, NICO",open,EthicsWriting,
-LAW  394C ADMINISTRATIVE LAW         ,28545,MT,2:30 p.m.-3:45 p.m.,TNH 2.124,Face-to-face,"GOLDEN, JOHN M",open; reserved,,
-N  321 ETHICS OF HEALTH CARE         ,56905,MT,3:30 p.m.-5:00 p.m.,NUR 5.178,Face-to-face,"OSIER, NICO",open; reserved,EthicsWriting,
+Class Name,Unique,Day + Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
+,Unique,(),(),Instruction Mode,Instructor,Status,Flags,Core
+LAW  496W HIST/DSGN MOVEMENT LAWYERING         ,28770,"(('MT', '9:45 a.m.-11:45 a.m.'),)","('CCJ 3.306',)",Face-to-face,"MCCORMACK, TRACY W",open; reserved,,
+N  321 ETHICS OF HEALTH CARE         ,56895,"(('MT', '12:30 p.m.-2:00 p.m.'),)","('NUR 4.176',)",Face-to-face,"KWAK, JUNG",open,EthicsWriting,
+LAW  481J NEGOTIATION         ,28138,"(('MT', '1:00 p.m.-3:00 p.m.'),)","('JON 6.207',)",Face-to-face,"MCCORMACK, TRACY W",open; reserved,,
+N  321 ETHICS OF HEALTH CARE         ,56900,"(('MT', '1:00 p.m.-2:30 p.m.'),)","('NUR 5.178',)",Face-to-face,"OSIER, NICO",open,EthicsWriting,
+LAW  394C ADMINISTRATIVE LAW         ,28545,"(('MT', '2:30 p.m.-3:45 p.m.'),)","('TNH 2.124',)",Face-to-face,"GOLDEN, JOHN M",open; reserved,,
+N  321 ETHICS OF HEALTH CARE         ,56905,"(('MT', '3:30 p.m.-5:00 p.m.'),)","('NUR 5.178',)",Face-to-face,"OSIER, NICO",open; reserved,EthicsWriting,

@@ -1,4 +1,5 @@
-Class Name,Unique,Day,Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
-LAW  494S TEXAS CIVIL PROCEDURE: SURVEY         ,28560,MTTH,9:00 a.m.-10:30 a.m.,JON 6.207,Face-to-face,"GOLDEN, MIKE",open; reserved,,
-LAW  396W STATUTORY INTERPRETATION         ,28760,MTTH,9:00 a.m.-10:00 a.m.,TNH 3.127,Face-to-face,"PEREZ-DAPLE, BRIAN A",open; reserved,,
-LAW  483 EVIDENCE         ,28175,MTTH,1:00 p.m.-2:15 p.m.,TNH 2.137,Face-to-face,"PEREZ-DAPLE, BRIAN A",open; reserved,,
+Class Name,Unique,Day + Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
+,Unique,(),(),Instruction Mode,Instructor,Status,Flags,Core
+LAW  494S TEXAS CIVIL PROCEDURE: SURVEY         ,28560,"(('MTTH', '9:00 a.m.-10:30 a.m.'),)","('JON 6.207',)",Face-to-face,"GOLDEN, MIKE",open; reserved,,
+LAW  396W STATUTORY INTERPRETATION         ,28760,"(('MTTH', '9:00 a.m.-10:00 a.m.'),)","('TNH 3.127',)",Face-to-face,"PEREZ-DAPLE, BRIAN A",open; reserved,,
+LAW  483 EVIDENCE         ,28175,"(('MTTH', '1:00 p.m.-2:15 p.m.'),)","('TNH 2.137',)",Face-to-face,"PEREZ-DAPLE, BRIAN A",open; reserved,,

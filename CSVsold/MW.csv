@@ -1,0 +1,575 @@
+Class Name,Unique,Day + Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
+ANT  304 INTRO ARCHAEOL STDS: PREHIST         ,31120,"(('MW', '8:00 a.m.-9:00 a.m.'), ('M', '9:00 a.m.-10:00 a.m.'))",BEL 328WCP 4.174,Face-to-face,,open,Global Cultures,"Natural Science and Technology, Part I"
+ANT  304 INTRO ARCHAEOL STDS: PREHIST         ,31125,"(('MW', '8:00 a.m.-9:00 a.m.'), ('W', '9:00 a.m.-10:00 a.m.'))",BEL 328WCP 4.174,Face-to-face,,open,Global Cultures,"Natural Science and Technology, Part I"
+ANT  304 INTRO ARCHAEOL STDS: PREHIST         ,31130,"(('MW', '8:00 a.m.-9:00 a.m.'), ('M', '1:00 p.m.-2:00 p.m.'))",BEL 328WCP 4.174,Face-to-face,,open,Global Cultures,"Natural Science and Technology, Part I"
+ANT  304 INTRO ARCHAEOL STDS: PREHIST         ,31135,"(('MW', '8:00 a.m.-9:00 a.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",BEL 328WCP 4.174,Face-to-face,,open,Global Cultures,"Natural Science and Technology, Part I"
+ANT  304 INTRO ARCHAEOL STDS: PREHIST         ,31140,"(('MW', '8:00 a.m.-9:00 a.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",BEL 328WCP 4.174,Face-to-face,,open,Global Cultures,"Natural Science and Technology, Part I"
+ANT  304 INTRO ARCHAEOL STDS: PREHIST         ,31145,"(('MW', '8:00 a.m.-9:00 a.m.'), ('F', '2:00 p.m.-3:00 p.m.'))",BEL 328WCP 4.174,Face-to-face,,open,Global Cultures,"Natural Science and Technology, Part I"
+ANT  304 INTRO ARCHAEOL STDS: PREHIST         ,31150,"(('MW', '8:00 a.m.-9:00 a.m.'), ('T', '3:30 p.m.-4:30 p.m.'))",BEL 328WCP 4.174,Face-to-face,,open,Global Cultures,"Natural Science and Technology, Part I"
+ANT  304 INTRO ARCHAEOL STDS: PREHIST         ,31155,"(('MW', '8:00 a.m.-9:00 a.m.'), ('TH', '3:30 p.m.-4:30 p.m.'))",BEL 328WCP 4.174,Face-to-face,,open,Global Cultures,"Natural Science and Technology, Part I"
+ANT  304 INTRO ARCHAEOL STDS: PREHIST         ,31160,"(('MW', '8:00 a.m.-9:00 a.m.'), ('M', '4:00 p.m.-5:00 p.m.'))",BEL 328WCP 4.174,Face-to-face,,open,Global Cultures,"Natural Science and Technology, Part I"
+UTS  306K HANDS-ON SCIENCE II         ,46655,"(('MW', '8:00 a.m.-10:00 a.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",PMA 7.114PMA 7.114,Face-to-face,"DUNN, DENNIS P",open; reserved,,"Natural Science and Technology, Part I"
+BIO  344 MOLECULAR BIOLOGY         ,48400,"(('MW', '8:30 a.m.-10:00 a.m.'), ('TH', '12:30 p.m.-1:30 p.m.'))",,Face-to-face,,cancelled,,
+BIO  344 MOLECULAR BIOLOGY         ,48405,"(('MW', '8:30 a.m.-10:00 a.m.'), ('TH', '1:30 p.m.-2:30 p.m.'))",,Face-to-face,,cancelled,,
+BIO  344 MOLECULAR BIOLOGY         ,48410,"(('MW', '8:30 a.m.-10:00 a.m.'), ('TH', '3:30 p.m.-4:30 p.m.'))",,Face-to-face,,cancelled,,
+AHC  325 2-HISTORY OF ROME: THE EMPIRE         ,32770,"(('MW', '9:00 a.m.-10:00 a.m.'), ('TH', '9:00 a.m.-10:00 a.m.'))",RLP 0.128GDC 2.210,Face-to-face,"RIGGSBY, ANDREW M",open,Global Cultures,
+AHC  325 2-HISTORY OF ROME: THE EMPIRE         ,32775,"(('MW', '9:00 a.m.-10:00 a.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",RLP 0.128WAG 112,Face-to-face,"RIGGSBY, ANDREW M",open,Global Cultures,
+AHC  325 2-HISTORY OF ROME: THE EMPIRE         ,32780,"(('MW', '9:00 a.m.-10:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",RLP 0.128MEZ 2.118,Face-to-face,"RIGGSBY, ANDREW M",open,Global Cultures,
+AHC  325 2-HISTORY OF ROME: THE EMPIRE         ,32785,"(('MW', '9:00 a.m.-10:00 a.m.'), ('TH', '12:00 p.m.-1:00 p.m.'))",RLP 0.128CBA 4.336,Face-to-face,"RIGGSBY, ANDREW M",open,Global Cultures,
+ANT  301 BIOLOGICAL ANTHROPOLOGY         ,31040,"(('MW', '9:00 a.m.-10:00 a.m.'), ('F', '8:00 a.m.-10:00 a.m.'))",BEL 328WCP 5.172,Face-to-face,"LEWIS, REBECCA J",open,,"Natural Science and Technology, Part I"
+ANT  301 BIOLOGICAL ANTHROPOLOGY         ,31045,"(('MW', '9:00 a.m.-10:00 a.m.'), ('M', '12:00 p.m.-2:00 p.m.'))",BEL 328WCP 5.172,Face-to-face,"LEWIS, REBECCA J",open,,"Natural Science and Technology, Part I"
+ANT  301 BIOLOGICAL ANTHROPOLOGY         ,31050,"(('MW', '9:00 a.m.-10:00 a.m.'), ('W', '12:00 p.m.-2:00 p.m.'))",BEL 328WCP 5.172,Face-to-face,"LEWIS, REBECCA J",open,,"Natural Science and Technology, Part I"
+ANT  301 BIOLOGICAL ANTHROPOLOGY         ,31055,"(('MW', '9:00 a.m.-10:00 a.m.'), ('F', '12:00 p.m.-2:00 p.m.'))",BEL 328WCP 5.172,Face-to-face,"LEWIS, REBECCA J",open,,"Natural Science and Technology, Part I"
+ANT  301 BIOLOGICAL ANTHROPOLOGY         ,31060,"(('MW', '9:00 a.m.-10:00 a.m.'), ('M', '3:00 p.m.-5:00 p.m.'))",BEL 328WCP 5.172,Face-to-face,"LEWIS, REBECCA J",open,,"Natural Science and Technology, Part I"
+ANT  301 BIOLOGICAL ANTHROPOLOGY         ,31065,"(('MW', '9:00 a.m.-10:00 a.m.'), ('W', '3:00 p.m.-5:00 p.m.'))",BEL 328WCP 5.172,Face-to-face,"LEWIS, REBECCA J",open,,"Natural Science and Technology, Part I"
+ANT  301 BIOLOGICAL ANTHROPOLOGY         ,31070,"(('MW', '9:00 a.m.-10:00 a.m.'), ('F', '3:00 p.m.-5:00 p.m.'))",BEL 328WCP 5.172,Face-to-face,"LEWIS, REBECCA J",open,,"Natural Science and Technology, Part I"
+ANT  301 BIOLOGICAL ANTHROPOLOGY         ,31075,"(('MW', '9:00 a.m.-10:00 a.m.'), ('T', '5:00 p.m.-7:00 p.m.'))",BEL 328WCP 5.172,Face-to-face,"LEWIS, REBECCA J",open,,"Natural Science and Technology, Part I"
+ANT  301 BIOLOGICAL ANTHROPOLOGY         ,31080,"(('MW', '9:00 a.m.-10:00 a.m.'), ('W', '5:00 p.m.-7:00 p.m.'))",BEL 328WCP 5.172,Face-to-face,"LEWIS, REBECCA J",open,,"Natural Science and Technology, Part I"
+ANT  301 BIOLOGICAL ANTHROPOLOGY         ,31085,"(('MW', '9:00 a.m.-10:00 a.m.'), ('TH', '5:00 p.m.-7:00 p.m.'))",BEL 328WCP 5.172,Face-to-face,"LEWIS, REBECCA J",open,,"Natural Science and Technology, Part I"
+ARH  302 SURV ANCIENT THRU MEDIEVAL ART         ,20040,"(('MW', '9:00 a.m.-10:00 a.m.'), ('TH', '10:00 a.m.-11:00 a.m.'))",ART 1.110ART 3.432,Face-to-face,"DAVIES, PENELOPE J",open,Global Cultures,Visual and Performing Arts
+ARH  302 SURV ANCIENT THRU MEDIEVAL ART         ,20045,"(('MW', '9:00 a.m.-10:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",ART 1.110ART 3.432,Face-to-face,"DAVIES, PENELOPE J",open,Global Cultures,Visual and Performing Arts
+ARH  302 SURV ANCIENT THRU MEDIEVAL ART         ,20050,"(('MW', '9:00 a.m.-10:00 a.m.'), ('TH', '11:00 a.m.-12:00 p.m.'))",ART 1.110ART 3.432,Face-to-face,"DAVIES, PENELOPE J",open,Global Cultures,Visual and Performing Arts
+ARH  302 SURV ANCIENT THRU MEDIEVAL ART         ,20055,"(('MW', '9:00 a.m.-10:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",ART 1.110ART 3.432,Face-to-face,"DAVIES, PENELOPE J",open,Global Cultures,Visual and Performing Arts
+ARH  302 SURV ANCIENT THRU MEDIEVAL ART         ,20060,"(('MW', '9:00 a.m.-10:00 a.m.'), ('TH', '12:00 p.m.-1:00 p.m.'))",ART 1.110ART 3.432,Face-to-face,"DAVIES, PENELOPE J",open,Global Cultures,Visual and Performing Arts
+ARH  302 SURV ANCIENT THRU MEDIEVAL ART         ,20065,"(('MW', '9:00 a.m.-10:00 a.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",ART 1.110ART 3.432,Face-to-face,"DAVIES, PENELOPE J",open,Global Cultures,Visual and Performing Arts
+C S  439 PRINCIPLES OF COMPUTER SYS-C S         ,50995,"(('MW', '9:00 a.m.-11:00 a.m.'), ('F', '9:00 a.m.-11:00 a.m.'))",GDC 1.304CBA 4.344,Hybrid or Blended,"NORMAN, ALISON N",open; reserved,Independent Inquiry,
+C S  439 PRINCIPLES OF COMPUTER SYS-C S         ,51000,"(('MW', '9:00 a.m.-11:00 a.m.'), ('F', '11:00 a.m.-1:00 p.m.'))",GDC 1.304CBA 4.334,Hybrid or Blended,"NORMAN, ALISON N",open; reserved,Independent Inquiry,
+C S  439 PRINCIPLES OF COMPUTER SYS-C S         ,51005,"(('MW', '9:00 a.m.-11:00 a.m.'), ('F', '1:00 p.m.-3:00 p.m.'))",GDC 1.304GDC 2.210,Hybrid or Blended,"NORMAN, ALISON N",open; reserved,Independent Inquiry,
+CHE  253K APPLIED STATISTICS         ,15320,"(('MW', '9:00 a.m.-10:00 a.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",CPE 2.218CPE 2.218,Face-to-face,"DALLE MOLLE, DAVID T",open; reserved,,
+ECE  302 INTRO ELECTRICAL ENGINEERING         ,16565,"(('MW', '9:00 a.m.-10:30 a.m.'), ('F', '10:00 a.m.-12:00 p.m.'))",ECJ 1.214EER 1.826,Face-to-face,"DODABALAPUR, ANANTH",open; reserved,,"Natural Science and Technology, Part II"
+ECE  302 INTRO ELECTRICAL ENGINEERING         ,16570,"(('MW', '9:00 a.m.-10:30 a.m.'), ('F', '12:00 p.m.-2:00 p.m.'))",ECJ 1.214EER 1.826,Face-to-face,"DODABALAPUR, ANANTH",open; reserved,,"Natural Science and Technology, Part II"
+ECE  302 INTRO ELECTRICAL ENGINEERING         ,16575,"(('MW', '9:00 a.m.-10:30 a.m.'), ('F', '2:00 p.m.-4:00 p.m.'))",ECJ 1.214EER 1.826,Face-to-face,"DODABALAPUR, ANANTH",open; reserved,,"Natural Science and Technology, Part II"
+ECE  312 SOFTWR DSGN AND IMPLEMENTATN I         ,16650,"(('MW', '9:00 a.m.-10:30 a.m.'), ('M', '12:00 p.m.-1:00 p.m.'))",ECJ 1.202EER 0.818,Face-to-face,"GLIGORIC, MILOS",open; reserved,,
+ECE  312 SOFTWR DSGN AND IMPLEMENTATN I         ,16655,"(('MW', '9:00 a.m.-10:30 a.m.'), ('M', '1:00 p.m.-2:00 p.m.'))",ECJ 1.202EER 0.818,Face-to-face,"GLIGORIC, MILOS",open; reserved,,
+ECE  312 SOFTWR DSGN AND IMPLEMENTATN I         ,16660,"(('MW', '9:00 a.m.-10:30 a.m.'), ('M', '2:00 p.m.-3:00 p.m.'))",ECJ 1.202EER 0.818,Face-to-face,"GLIGORIC, MILOS",open; reserved,,
+ECE  312 SOFTWR DSGN AND IMPLEMENTATN I         ,16665,"(('MW', '9:00 a.m.-10:30 a.m.'), ('M', '3:00 p.m.-4:00 p.m.'))",ECJ 1.202EER 0.818,Face-to-face,"GLIGORIC, MILOS",open; reserved,,
+ECE  312 SOFTWR DSGN AND IMPLEMENTATN I         ,16670,"(('MW', '9:00 a.m.-10:30 a.m.'), ('M', '4:00 p.m.-5:00 p.m.'))",ECJ 1.202EER 0.818,Face-to-face,"GLIGORIC, MILOS",open; reserved,,
+ECE  316 DIGITAL LOGIC DESIGN         ,16730,"(('MW', '9:00 a.m.-10:30 a.m.'), ('W', '12:00 p.m.-1:00 p.m.'))",CPE 2.214EER 0.716,Face-to-face,"TELANG, NINA K",open; reserved,,
+ECE  316 DIGITAL LOGIC DESIGN         ,16735,"(('MW', '9:00 a.m.-10:30 a.m.'), ('W', '1:00 p.m.-2:00 p.m.'))",CPE 2.214EER 0.716,Face-to-face,"TELANG, NINA K",open; reserved,,
+ECE  316 DIGITAL LOGIC DESIGN         ,16740,"(('MW', '9:00 a.m.-10:30 a.m.'), ('W', '2:00 p.m.-3:00 p.m.'))",CPE 2.214EER 0.716,Face-to-face,"TELANG, NINA K",open; reserved,,
+ECE  316 DIGITAL LOGIC DESIGN         ,16745,"(('MW', '9:00 a.m.-10:30 a.m.'), ('W', '3:00 p.m.-4:00 p.m.'))",CPE 2.214EER 0.716,Face-to-face,"TELANG, NINA K",open; reserved,,
+ECE  422C SOFTWR DESIGN/IMPLEMENTATN II         ,16870,"(('MW', '9:00 a.m.-10:30 a.m.'), ('W', '10:30 a.m.-12:00 p.m.'))",UTC 3.122EER 0.818,Face-to-face,"NANDAKUMAR, VALLATH",open; reserved,,
+ECE  422C SOFTWR DESIGN/IMPLEMENTATN II         ,16875,"(('MW', '9:00 a.m.-10:30 a.m.'), ('W', '12:00 p.m.-1:30 p.m.'))",UTC 3.122EER 0.818,Face-to-face,"NANDAKUMAR, VALLATH",open; reserved,,
+ECE  422C SOFTWR DESIGN/IMPLEMENTATN II         ,16880,"(('MW', '9:00 a.m.-10:30 a.m.'), ('W', '1:30 p.m.-3:00 p.m.'))",UTC 3.122EER 0.818,Face-to-face,"NANDAKUMAR, VALLATH",open; reserved,,
+ECE  422C SOFTWR DESIGN/IMPLEMENTATN II         ,16885,"(('MW', '9:00 a.m.-10:30 a.m.'), ('W', '3:00 p.m.-4:30 p.m.'))",UTC 3.122EER 0.818,Face-to-face,"NANDAKUMAR, VALLATH",open; reserved,,
+GER  506 FIRST-YEAR GERMAN I         ,36730,"(('MW', '9:00 a.m.-10:00 a.m.'), ('TTH', '9:30 a.m.-11:00 a.m.'))",JES A305AJES A305A,Face-to-face,"WOOTEN, ANNE",open,,
+HIS  321 HISTORY OF ROME: THE EMPIRE         ,38005,"(('MW', '9:00 a.m.-10:00 a.m.'), ('TH', '9:00 a.m.-10:00 a.m.'))",RLP 0.128GDC 2.210,Face-to-face,"RIGGSBY, ANDREW M",open,Global Cultures,
+HIS  321 HISTORY OF ROME: THE EMPIRE         ,38010,"(('MW', '9:00 a.m.-10:00 a.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",RLP 0.128WAG 112,Face-to-face,"RIGGSBY, ANDREW M",open,Global Cultures,
+HIS  321 HISTORY OF ROME: THE EMPIRE         ,38015,"(('MW', '9:00 a.m.-10:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",RLP 0.128MEZ 2.118,Face-to-face,"RIGGSBY, ANDREW M",open,Global Cultures,
+HIS  321 HISTORY OF ROME: THE EMPIRE         ,38020,"(('MW', '9:00 a.m.-10:00 a.m.'), ('TH', '12:00 p.m.-1:00 p.m.'))",RLP 0.128CBA 4.336,Face-to-face,"RIGGSBY, ANDREW M",open,Global Cultures,
+KIN  335C MOTOR LEARNING         ,12555,"(('MW', '9:00 a.m.-10:00 a.m.'), ('F', '9:00 a.m.-10:30 a.m.'))",BEL 602ABEL 902,Face-to-face,"JOWERS, ESBELLE M",open,,
+KIN  335C MOTOR LEARNING         ,12560,"(('MW', '9:00 a.m.-10:00 a.m.'), ('F', '10:30 a.m.-12:00 p.m.'))",BEL 602ABEL 902,Face-to-face,"JOWERS, ESBELLE M",open,,
+KIN  335C MOTOR LEARNING         ,12565,"(('MW', '9:00 a.m.-10:00 a.m.'), ('F', '12:00 p.m.-1:30 p.m.'))",BEL 602ABEL 902,Face-to-face,"JOWERS, ESBELLE M",open,,
+KIN  335C MOTOR LEARNING         ,12570,"(('MW', '9:00 a.m.-10:00 a.m.'), ('TH', '1:30 p.m.-3:00 p.m.'))",BEL 602ABEL 902,Face-to-face,"JOWERS, ESBELLE M",open,,
+KIN  335C MOTOR LEARNING         ,12575,"(('MW', '9:00 a.m.-10:00 a.m.'), ('F', '1:30 p.m.-3:00 p.m.'))",BEL 602ABEL 902,Face-to-face,"JOWERS, ESBELLE M",open,,
+MNS  308 HUMANS AND A CHANGING OCEAN         ,52905,"(('MW', '9:00 a.m.-10:00 a.m.'), ('TH', '10:00 a.m.-12:00 p.m.'))",PAR 201BIO 12H,Face-to-face,"MIN, DONG-HA",open,Ethics,"Natural Science and Technology, Part I"
+MNS  308 HUMANS AND A CHANGING OCEAN         ,52910,"(('MW', '9:00 a.m.-10:00 a.m.'), ('W', '12:00 p.m.-2:00 p.m.'))",PAR 201BIO 12H,Face-to-face,"MIN, DONG-HA",open,Ethics,"Natural Science and Technology, Part I"
+MNS  308 HUMANS AND A CHANGING OCEAN         ,52915,"(('MW', '9:00 a.m.-10:00 a.m.'), ('T', '3:00 p.m.-5:00 p.m.'))",PAR 201BIO 12H,Face-to-face,"MIN, DONG-HA",open,Ethics,"Natural Science and Technology, Part I"
+MUS  213N HISTORY OF MUSIC II         ,22245,"(('MW', '9:00 a.m.-10:00 a.m.'), ('T', '12:30 p.m.-1:30 p.m.'))",MRH 2.118MRH 2.604,Face-to-face,"MAGGART, ALISON",open; reserved,,
+MUS  213N HISTORY OF MUSIC II         ,22250,"(('MW', '9:00 a.m.-10:00 a.m.'), ('TH', '12:30 p.m.-1:30 p.m.'))",MRH 2.118MRH 2.604,Face-to-face,"MAGGART, ALISON",open; reserved,,
+MUS  213N HISTORY OF MUSIC II         ,22255,"(('MW', '9:00 a.m.-10:00 a.m.'), ('T', '5:00 p.m.-6:00 p.m.'))",MRH 2.118MRH 2.610,Face-to-face,"MAGGART, ALISON",open; reserved,,
+MUS  213N HISTORY OF MUSIC II         ,22260,"(('MW', '9:00 a.m.-10:00 a.m.'), ('T', '6:00 p.m.-7:00 p.m.'))",MRH 2.118MRH 2.610,Face-to-face,"MAGGART, ALISON",open; reserved,,
+AET  335K VIRTUAL REALITY VIDEO GAMES         ,20855,"(('MW', '9:30 a.m.-11:00 a.m.'), ('T', '5:00 p.m.-8:00 p.m.'))",DFA 4.112,Hybrid or Blended,"JOHNS, MJ LAURA",cancelled,,
+BIO  320 CELL BIOLOGY         ,47825,"(('MW', '9:30 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",BUR 216GDC 2.402,Face-to-face,"DE WAAL, ERIC M",open,,
+BIO  320 CELL BIOLOGY         ,47830,"(('MW', '9:30 a.m.-11:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",BUR 216RLP 0.108,Face-to-face,"DE WAAL, ERIC M",open,,
+BIO  320 CELL BIOLOGY         ,47835,"(('MW', '9:30 a.m.-11:00 a.m.'), ('TH', '2:00 p.m.-3:00 p.m.'))",BUR 216GDC 2.402,Face-to-face,"DE WAAL, ERIC M",open,,
+BIO  320 CELL BIOLOGY         ,47840,"(('MW', '9:30 a.m.-11:00 a.m.'), ('TH', '3:30 p.m.-4:30 p.m.'))",BUR 216BEN 1.106,Face-to-face,"DE WAAL, ERIC M",open,,
+C S  331 ALGORITHMS AND COMPLEXITY         ,50950,"(('MW', '9:30 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",UTC 4.112ECJ 1.306,Hybrid or Blended,,open; reserved,Quantitative Reasoning,
+C S  331 ALGORITHMS AND COMPLEXITY         ,50955,"(('MW', '9:30 a.m.-11:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",UTC 4.112SZB 2.216,Hybrid or Blended,,open; reserved,Quantitative Reasoning,
+CH  302 PRINCIPLES OF CHEMISTRY II         ,49295,"(('MW', '9:30 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",WCH 1.120WEL 4.132B,Face-to-face,"BORDAS, LESLI W",open; reserved,Quantitative Reasoning,"Natural Science and Technology, Part I"
+CH  302 PRINCIPLES OF CHEMISTRY II         ,49300,"(('MW', '9:30 a.m.-11:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",WCH 1.120WEL 4.132B,Face-to-face,"BORDAS, LESLI W",open; reserved,Quantitative Reasoning,"Natural Science and Technology, Part I"
+CH  302 PRINCIPLES OF CHEMISTRY II         ,49355,"(('MW', '9:30 a.m.-11:00 a.m.'), ('W', '8:30 a.m.-9:30 a.m.'))",WCH 1.120WEL 4.132B,Face-to-face,"BORDAS, LESLI W",open; reserved,Quantitative Reasoning,"Natural Science and Technology, Part I"
+CH  302 PRINCIPLES OF CHEMISTRY II         ,49360,"(('MW', '9:30 a.m.-11:00 a.m.'), ('TH', '8:30 a.m.-9:30 p.m.'))",WCH 1.120WEL 4.132B,Face-to-face,"BORDAS, LESLI W",open; reserved,Quantitative Reasoning,"Natural Science and Technology, Part I"
+CH  302 PRINCIPLES OF CHEMISTRY II         ,49365,"(('MW', '9:30 a.m.-11:00 a.m.'), ('F', '8:30 a.m.-9:30 a.m.'))",WCH 1.120WEL 4.132B,Face-to-face,"BORDAS, LESLI W",open; reserved,Quantitative Reasoning,"Natural Science and Technology, Part I"
+CH  302 PRINCIPLES OF CHEMISTRY II         ,49370,"(('MW', '9:30 a.m.-11:00 a.m.'), ('T', '12:00 p.m.-1:00 p.m.'))",WCH 1.120WEL 4.132B,Face-to-face,"BORDAS, LESLI W",open; reserved,Quantitative Reasoning,"Natural Science and Technology, Part I"
+EDC  370S 17-TEACHING SEC SCH DANCE         ,10770,"(('MW', '9:30 a.m.-11:00 a.m.'), ('F', '9:00 a.m.-10:30 a.m.'))",WIN 2.120WIN 2.120,Face-to-face,"CURRAN, TINA MARIE",open,,
+J  310F REPORTING: WORDS         ,08625,"(('MW', '9:30 a.m.-11:00 a.m.'), ('TTH', '8:00 a.m.-9:30 a.m.'))",DMC 1.202DMC 4.204,Face-to-face,"DAWSON, DIANAQUIGLEY, EMILY CPEARSON, MICHAEL",open; reserved,Writing,
+J  310F REPORTING: WORDS         ,08630,"(('MW', '9:30 a.m.-11:00 a.m.'), ('TTH', '12:30 p.m.-2:00 p.m.'))",DMC 1.202CMA 4.150,Face-to-face,"DAWSON, DIANAQUIGLEY, EMILY CPEARSON, MICHAEL",open; reserved,Writing,
+J  310F REPORTING: WORDS         ,08635,"(('MW', '9:30 a.m.-11:00 a.m.'), ('TTH', '2:00 p.m.-3:30 p.m.'))",DMC 1.202CMA 4.150,Face-to-face,"DAWSON, DIANAQUIGLEY, EMILY CPEARSON, MICHAEL",open; reserved,Writing,
+J  310F REPORTING: WORDS         ,08640,"(('MW', '9:30 a.m.-11:00 a.m.'), ('MW', '3:30 p.m.-5:00 p.m.'))",DMC 1.202DMC 3.208,Face-to-face,"DAWSON, DIANAQUIGLEY, EMILY CPEARSON, MICHAEL",open; reserved,Writing,
+SDS  320E ELEMENTS OF STATISTICS         ,56515,"(('MW', '9:30 a.m.-11:00 a.m.'), ('W', '1:00 p.m.-2:00 p.m.'))",ART 1.102FAC 101B,Face-to-face,"RAGSDALE, SALLY KATHLEEN",open,Independent InquiryEthicsQuantitative Reasoning,Mathematics
+SDS  320E ELEMENTS OF STATISTICS         ,56520,"(('MW', '9:30 a.m.-11:00 a.m.'), ('W', '2:00 p.m.-3:00 p.m.'))",ART 1.102FAC 101B,Face-to-face,"RAGSDALE, SALLY KATHLEEN",open,Independent InquiryEthicsQuantitative Reasoning,Mathematics
+SDS  320E ELEMENTS OF STATISTICS         ,56525,"(('MW', '9:30 a.m.-11:00 a.m.'), ('W', '3:00 p.m.-4:00 p.m.'))",ART 1.102FAC 101B,Face-to-face,"RAGSDALE, SALLY KATHLEEN",open,Independent InquiryEthicsQuantitative Reasoning,Mathematics
+ANT  302 CULTURAL ANTHROPOLOGY         ,31095,"(('MW', '10:00 a.m.-11:00 a.m.'), ('TH', '8:30 a.m.-9:30 a.m.'))",GSB 2.124WCP 4.118,Face-to-face,"HUSSAIN, SARDAR",open,Global Cultures,Social and Behavioral Sciences
+ANT  302 CULTURAL ANTHROPOLOGY         ,31100,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",GSB 2.124WCP 4.118,Face-to-face,"HUSSAIN, SARDAR",open,Global Cultures,Social and Behavioral Sciences
+ANT  302 CULTURAL ANTHROPOLOGY         ,31105,"(('MW', '10:00 a.m.-11:00 a.m.'), ('W', '1:00 p.m.-2:00 p.m.'))",GSB 2.124WCP 4.118,Face-to-face,"HUSSAIN, SARDAR",open,Global Cultures,Social and Behavioral Sciences
+ANT  302 CULTURAL ANTHROPOLOGY         ,31110,"(('MW', '10:00 a.m.-11:00 a.m.'), ('W', '2:00 p.m.-3:00 p.m.'))",GSB 2.124WCP 4.118,Face-to-face,"HUSSAIN, SARDAR",open,Global Cultures,Social and Behavioral Sciences
+ANT  302 CULTURAL ANTHROPOLOGY         ,31115,"(('MW', '10:00 a.m.-11:00 a.m.'), ('W', '3:00 p.m.-4:00 p.m.'))",GSB 2.124WCP 4.118,Face-to-face,"HUSSAIN, SARDAR",open,Global Cultures,Social and Behavioral Sciences
+BME  214L COMPUT FUND OF BME DESIGN         ,14855,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '8:00 a.m.-11:00 a.m.'))",BUR 108BME 3.312,Face-to-face,"PUPERI, DANIEL",open; reserved,,
+BME  214L COMPUT FUND OF BME DESIGN         ,14860,"(('MW', '10:00 a.m.-11:00 a.m.'), ('W', '3:00 p.m.-6:00 p.m.'))",BUR 108BME 3.312,Face-to-face,"PUPERI, DANIEL",open; reserved,,
+BME  214L COMPUT FUND OF BME DESIGN         ,14865,"(('MW', '10:00 a.m.-11:00 a.m.'), ('T', '3:30 p.m.-6:30 p.m.'))",BUR 108BME 3.312,Face-to-face,"PUPERI, DANIEL",open; reserved,,
+BME  214L COMPUT FUND OF BME DESIGN         ,14870,"(('MW', '10:00 a.m.-11:00 a.m.'), ('TH', '3:30 p.m.-6:30 p.m.'))",BUR 108BME 3.312,Face-to-face,"PUPERI, DANIEL",open; reserved,,
+C L  315 WORLD LITERATURE         ,33375,"(('MW', '10:00 a.m.-11:30 a.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",UTC 2.112AJES A215A,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+C L  315 WORLD LITERATURE         ,33380,"(('MW', '10:00 a.m.-11:30 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",UTC 2.112AJES A215A,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+C L  315 WORLD LITERATURE         ,33385,"(('MW', '10:00 a.m.-11:30 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",UTC 2.112ASZB 4.414,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+C L  315 WORLD LITERATURE         ,33390,"(('MW', '10:00 a.m.-11:30 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",UTC 2.112ASZB 4.414,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+C L  315 WORLD LITERATURE         ,33395,"(('MW', '10:00 a.m.-11:30 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",UTC 2.112ASZB 5.624,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+C L  315 WORLD LITERATURE         ,33400,"(('MW', '10:00 a.m.-11:30 a.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",UTC 2.112ASZB 4.618,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+C L  315 WORLD LITERATURE         ,33405,"(('MW', '10:00 a.m.-11:30 a.m.'), ('W', '1:00 p.m.-2:00 p.m.'))",UTC 2.112ASZB 5.624,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+C L  315 WORLD LITERATURE         ,33410,"(('MW', '10:00 a.m.-11:30 a.m.'), ('W', '2:00 p.m.-3:00 p.m.'))",UTC 2.112ARLP 0.106,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+C L  315 WORLD LITERATURE         ,33415,"(('MW', '10:00 a.m.-11:30 a.m.'), ('W', '2:00 p.m.-3:00 p.m.'))",UTC 2.112AWCP 5.102,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+C L  315 WORLD LITERATURE         ,33420,"(('MW', '10:00 a.m.-11:30 a.m.'), ('W', '3:00 p.m.-4:00 p.m.'))",UTC 2.112AJES A216A,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+C L  315 WORLD LITERATURE         ,33425,"(('MW', '10:00 a.m.-11:30 a.m.'), ('W', '3:00 p.m.-4:00 p.m.'))",UTC 2.112ARLP 0.106,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+C L  315 WORLD LITERATURE         ,33430,"(('MW', '10:00 a.m.-11:30 a.m.'), ('TH', '3:30 p.m.-4:30 p.m.'))",UTC 2.112AGDC 5.304,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+C L  315 WORLD LITERATURE         ,33435,"(('MW', '10:00 a.m.-11:30 a.m.'), ('TH', '3:30 p.m.-4:30 p.m.'))",UTC 2.112AJES A203A,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+C L  315 WORLD LITERATURE         ,33440,"(('MW', '10:00 a.m.-11:30 a.m.'), ('W', '4:00 p.m.-5:00 p.m.'))",UTC 2.112AJES A216A,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+C L  315 WORLD LITERATURE         ,33445,"(('MW', '10:00 a.m.-11:30 a.m.'), ('TH', '4:30 p.m.-5:30 p.m.'))",UTC 2.112AGDC 2.410,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+C L  315 WORLD LITERATURE         ,33450,"(('MW', '10:00 a.m.-11:30 a.m.'), ('TH', '4:30 p.m.-5:30 p.m.'))",UTC 2.112AJES A217A,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+C S  429H COMP ORGANIZATN & ARCH: HONORS         ,50920,"(('MW', '10:00 a.m.-12:00 p.m.'), ('F', '10:00 a.m.-12:00 p.m.'))",SZB 2.802SZB 2.802,Face-to-face,"ELNOZAHY, MOOTAZ N",open; reserved,,
+CH  317 DESCRIPT INORG CHEM         ,49795,"(('MW', '10:00 a.m.-11:00 a.m.'), ('TTH', '9:00 a.m.-12:00 p.m.'))",BUR 130WEL 5.140,Face-to-face,,open,Quantitative Reasoning,
+CH  317 DESCRIPT INORG CHEM         ,49800,"(('MW', '10:00 a.m.-11:00 a.m.'), ('MW', '1:00 p.m.-4:00 p.m.'))",BUR 130WEL 5.140,Face-to-face,,open,Quantitative Reasoning,
+CH  317 DESCRIPT INORG CHEM         ,49805,"(('MW', '10:00 a.m.-11:00 a.m.'), ('TTH', '2:00 p.m.-5:00 p.m.'))",BUR 130WEL 5.140,Face-to-face,,open,Quantitative Reasoning,
+CH  317 DESCRIPT INORG CHEM         ,49810,"(('MW', '10:00 a.m.-11:00 a.m.'), ('TTH', '6:00 p.m.-9:00 p.m.'))",BUR 130WEL 5.140,Face-to-face,,open,Quantitative Reasoning,
+CMS  321D COMM FOR DVLPMNT & PHLNTHRPY         ,08160,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",DMC 3.206,Hybrid or Blended,,open,,
+E  316N WORLD LITERATURE         ,34775,"(('MW', '10:00 a.m.-11:30 a.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",UTC 2.112AJES A215A,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+E  316N WORLD LITERATURE         ,34780,"(('MW', '10:00 a.m.-11:30 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",UTC 2.112AJES A215A,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+E  316N WORLD LITERATURE         ,34785,"(('MW', '10:00 a.m.-11:30 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",UTC 2.112ASZB 4.414,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+E  316N WORLD LITERATURE         ,34790,"(('MW', '10:00 a.m.-11:30 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",UTC 2.112ASZB 4.414,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+E  316N WORLD LITERATURE         ,34795,"(('MW', '10:00 a.m.-11:30 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",UTC 2.112ASZB 5.624,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+E  316N WORLD LITERATURE         ,34800,"(('MW', '10:00 a.m.-11:30 a.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",UTC 2.112ASZB 4.618,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+E  316N WORLD LITERATURE         ,34805,"(('MW', '10:00 a.m.-11:30 a.m.'), ('W', '1:00 p.m.-2:00 p.m.'))",UTC 2.112ASZB 5.624,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+E  316N WORLD LITERATURE         ,34810,"(('MW', '10:00 a.m.-11:30 a.m.'), ('W', '2:00 p.m.-3:00 p.m.'))",UTC 2.112ARLP 0.106,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+E  316N WORLD LITERATURE         ,34815,"(('MW', '10:00 a.m.-11:30 a.m.'), ('W', '2:00 p.m.-3:00 p.m.'))",UTC 2.112AWCP 5.102,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+E  316N WORLD LITERATURE         ,34820,"(('MW', '10:00 a.m.-11:30 a.m.'), ('W', '3:00 p.m.-4:00 p.m.'))",UTC 2.112AJES A216A,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+E  316N WORLD LITERATURE         ,34825,"(('MW', '10:00 a.m.-11:30 a.m.'), ('W', '3:00 p.m.-4:00 p.m.'))",UTC 2.112ARLP 0.106,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+E  316N WORLD LITERATURE         ,34830,"(('MW', '10:00 a.m.-11:30 a.m.'), ('TH', '3:30 p.m.-4:30 p.m.'))",UTC 2.112AGDC 5.304,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+E  316N WORLD LITERATURE         ,34835,"(('MW', '10:00 a.m.-11:30 a.m.'), ('TH', '3:30 p.m.-4:30 p.m.'))",UTC 2.112AJES A203A,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+E  316N WORLD LITERATURE         ,34840,"(('MW', '10:00 a.m.-11:30 a.m.'), ('W', '4:00 p.m.-5:00 p.m.'))",UTC 2.112AJES A216A,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+E  316N WORLD LITERATURE         ,34845,"(('MW', '10:00 a.m.-11:30 a.m.'), ('TH', '4:30 p.m.-5:30 p.m.'))",UTC 2.112AGDC 2.410,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+E  316N WORLD LITERATURE         ,34850,"(('MW', '10:00 a.m.-11:30 a.m.'), ('TH', '4:30 p.m.-5:30 p.m.'))",UTC 2.112AJES A217A,Face-to-face,"RICHMOND-GARZA, ELIZABETH",open,Global Cultures,Humanities
+GEO  426P IGNEOUS/METAMORPH PETROLOGY         ,26935,"(('MW', '10:00 a.m.-11:30 a.m.'), ('TTH', '8:00 a.m.-10:00 a.m.'))",JGB 3.120EPS 2.102,Face-to-face,"GARDNER, JAMES E",open,,
+GEO  426P IGNEOUS/METAMORPH PETROLOGY         ,26940,"(('MW', '10:00 a.m.-11:30 a.m.'), ('MW', '12:00 p.m.-2:00 p.m.'))",JGB 3.120EPS 2.102,Face-to-face,"GARDNER, JAMES E",open; reserved,,
+GEO  426P IGNEOUS/METAMORPH PETROLOGY         ,26945,"(('MW', '10:00 a.m.-11:30 a.m.'), ('MW', '2:00 p.m.-4:00 p.m.'))",JGB 3.120EPS 2.102,Face-to-face,"GARDNER, JAMES E",open; reserved,,
+GEO  426P IGNEOUS/METAMORPH PETROLOGY         ,26950,"(('MW', '10:00 a.m.-11:30 a.m.'), ('MW', '4:00 p.m.-6:00 p.m.'))",JGB 3.120EPS 2.102,Face-to-face,"GARDNER, JAMES E",open; reserved,,
+GER  506 FIRST-YEAR GERMAN I         ,36735,"(('MW', '10:00 a.m.-11:00 a.m.'), ('TTH', '11:00 a.m.-12:30 p.m.'))",JES A305ACMA 3.114,Face-to-face,"VANDERHEIJDEN, VINCENT",open,,
+GER  507 FIRST-YEAR GERMAN II         ,36745,"(('MW', '10:00 a.m.-11:00 a.m.'), ('TTH', '9:30 a.m.-11:00 a.m.'))",JES A303ABUR 337,Face-to-face,"JONES, ELLEN",open,,
+GRG  470C ADVANCED GEOGRAPHIC INFO SYS         ,36320,"(('MW', '10:00 a.m.-11:30 a.m.'), ('T', '9:30 a.m.-11:00 a.m.'))",SZB 3.814RLP 1.402,Face-to-face,"ARIMA, EUGENIO YATSUDA",open; reserved,Quantitative Reasoning,
+GRG  470C ADVANCED GEOGRAPHIC INFO SYS         ,36325,"(('MW', '10:00 a.m.-11:30 a.m.'), ('TH', '9:30 a.m.-11:00 a.m.'))",SZB 3.814RLP 1.402,Face-to-face,"ARIMA, EUGENIO YATSUDA",open; reserved,Quantitative Reasoning,
+IRG  301 INTRO INTL RELS & GLOBAL STDS         ,29765,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",RLP 0.112PAR 306,Face-to-face,"ANDERSON, MICHAEL R",open; reserved,,
+IRG  301 INTRO INTL RELS & GLOBAL STDS         ,29770,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",RLP 0.112PAR 310,Face-to-face,"ANDERSON, MICHAEL R",open; reserved,,
+IRG  301 INTRO INTL RELS & GLOBAL STDS         ,29775,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",RLP 0.112PAR 103,Face-to-face,"ANDERSON, MICHAEL R",open; reserved,,
+IRG  301 INTRO INTL RELS & GLOBAL STDS         ,29780,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",RLP 0.112PAR 303,Face-to-face,"ANDERSON, MICHAEL R",open; reserved,,
+KIN  332 TECHNIQS OF FITNESS LEADERSHIP         ,12545,"(('MW', '10:00 a.m.-11:30 a.m.'), ('M', '8:00 a.m.-9:30 a.m.'), ('F', '10:00 a.m.-11:30 a.m.'))",GRE 1.104RSC 1.138RSC 1.106,Face-to-face,"SCHWARTZ, LOGAN KURT",open; reserved,EthicsWriting,
+KIN  332 TECHNIQS OF FITNESS LEADERSHIP         ,12550,"(('MW', '10:00 a.m.-11:30 a.m.'), ('T', '8:00 a.m.-9:30 a.m.'), ('F', '10:00 a.m.-11:30 a.m.'))",GRE 1.104RSC 1.138RSC 1.106,Face-to-face,"SCHWARTZ, LOGAN KURT",open,EthicsWriting,
+PHL  303 HUMAN NATURE         ,40280,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",WAG 420JES A207A,Face-to-face,"DRUCKER, DANIEL",open,,
+PHL  303 HUMAN NATURE         ,40285,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",WAG 420JES A207A,Face-to-face,"DRUCKER, DANIEL",open,,
+PHL  303 HUMAN NATURE         ,40290,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",WAG 420JES A205A,Face-to-face,"DRUCKER, DANIEL",open,,
+PHL  304 CONTEMPORARY MORAL PROBLEMS         ,40305,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",WAG 101JES A203A,Face-to-face,"SMITH, NICOLE",open,Ethics,
+PHL  304 CONTEMPORARY MORAL PROBLEMS         ,40310,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",WAG 101JES A217A,Face-to-face,"SMITH, NICOLE",open,Ethics,
+PHL  304 CONTEMPORARY MORAL PROBLEMS         ,40315,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",WAG 101JES A203A,Face-to-face,"SMITH, NICOLE",open,Ethics,
+PHL  304 CONTEMPORARY MORAL PROBLEMS         ,40320,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",WAG 101JES A217A,Face-to-face,"SMITH, NICOLE",open,Ethics,
+PHL  304 CONTEMPORARY MORAL PROBLEMS         ,40325,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",WAG 101JES A203A,Face-to-face,"SMITH, NICOLE",open,Ethics,
+PHL  304 CONTEMPORARY MORAL PROBLEMS         ,40330,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",WAG 101JES A217A,Face-to-face,"SMITH, NICOLE",open,Ethics,
+PHL  329L EARLY MOD PHL: DESCARTES-KANT         ,40560,"(('MW', '10:00 a.m.-11:30 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",WAG 302JES A218A,Face-to-face,"DUNLOP, KATHERINE LAURA",open,,
+PHL  329L EARLY MOD PHL: DESCARTES-KANT         ,40565,"(('MW', '10:00 a.m.-11:30 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",WAG 302JES A218A,Face-to-face,"DUNLOP, KATHERINE LAURA",open,,
+PHL  329L EARLY MOD PHL: DESCARTES-KANT         ,40570,"(('MW', '10:00 a.m.-11:30 a.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",WAG 302JES A218A,Face-to-face,"DUNLOP, KATHERINE LAURA",open,,
+PHL  347 PHILOSOPHY OF LAW         ,40600,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",WAG 214SZB 4.618,Face-to-face,"LEON, JEFFREY C",open,Ethics,
+PHL  347 PHILOSOPHY OF LAW         ,40605,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",WAG 214SZB 4.618,Face-to-face,"LEON, JEFFREY C",open,Ethics,
+PHL  347 PHILOSOPHY OF LAW         ,40610,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",WAG 214SZB 4.508,Face-to-face,"LEON, JEFFREY C",open,Ethics,
+RUS  611C INTENSIVE RUSSIAN II         ,42795,"(('MW', '10:00 a.m.-11:00 a.m.'), ('TTH', '9:30 a.m.-11:00 a.m.'))",BUR 228BUR 228,Hybrid or Blended,"ALEXANDROVA, MARINA",open,,
+SAN  507 FIRST-YEAR SANSKRIT II         ,32595,"(('MW', '10:00 a.m.-11:00 a.m.'), ('TTH', '9:30 a.m.-11:00 a.m.'))",PAR 210JES A215A,Face-to-face,"CUNEO, DANIELE",open,,
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43025,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",WCP 1.402CBA 4.324,Face-to-face,"HAGHSHENAS, MEHDI",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43030,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",WCP 1.402CBA 4.330,Face-to-face,"HAGHSHENAS, MEHDI",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43035,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",WCP 1.402CBA 4.324,Face-to-face,"HAGHSHENAS, MEHDI",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43040,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",WCP 1.402CBA 4.330,Face-to-face,"HAGHSHENAS, MEHDI",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43045,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",WCP 1.402GDC 1.406,Face-to-face,"HAGHSHENAS, MEHDI",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43050,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",WCP 1.402GDC 1.406,Face-to-face,"HAGHSHENAS, MEHDI",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43055,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",WCP 1.402WCP 5.102,Face-to-face,"HAGHSHENAS, MEHDI",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43060,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",WCP 1.402WCP 5.102,Face-to-face,"HAGHSHENAS, MEHDI",open,,Social and Behavioral Sciences
+SOC  327M SOCIAL RESEARCH METHODS         ,43275,"(('MW', '10:00 a.m.-11:00 a.m.'), ('W', '2:30 p.m.-4:30 p.m.'))",RLP 0.122RLP 1.404,Face-to-face,"CARAMANIS, CHRISTINA NEFE",open; reserved,Quantitative ReasoningWritingIndependent Inquiry,
+T C  302 FORENSIC GEOLOGY         ,40935,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-12:00 p.m.'))",EPS 4.104EPS 4.104,Face-to-face,"BARNES, JAIME DBREECKER, DANIEL O",open,Writing,First-Year Signature Course
+UGS  303 AFRICAN AMERICAN MUSIC         ,60860,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",CAL 100CAL 323,Face-to-face,"WALTER, PATRICK F",open,,First-Year Signature Course
+UGS  303 AFRICAN AMERICAN MUSIC         ,60865,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",CAL 100CAL 323,Face-to-face,"WALTER, PATRICK F",open,,First-Year Signature Course
+UGS  303 AFRICAN AMERICAN MUSIC         ,60870,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",CAL 100CAL 419,Face-to-face,"WALTER, PATRICK F",open,,First-Year Signature Course
+UGS  303 AFRICAN AMERICAN MUSIC         ,60875,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",CAL 100CAL 21,Face-to-face,"WALTER, PATRICK F",open,,First-Year Signature Course
+UGS  303 AFRICAN AMERICAN MUSIC         ,60880,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",CAL 100CAL 419,Face-to-face,"WALTER, PATRICK F",open,,First-Year Signature Course
+UGS  303 AFRICAN AMERICAN MUSIC         ,60885,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",CAL 100CAL 419,Face-to-face,"WALTER, PATRICK F",open,,First-Year Signature Course
+UGS  303 HIDDEN LIVES OF MAPS         ,61185,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '8:00 a.m.-9:00 a.m.'))",BUR 116MAI 220E,Face-to-face,"SEEGEL, STEVEN",open,,First-Year Signature Course
+UGS  303 HIDDEN LIVES OF MAPS         ,61190,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",BUR 116MAI 220E,Face-to-face,"SEEGEL, STEVEN",open,,First-Year Signature Course
+UGS  303 HIDDEN LIVES OF MAPS         ,61195,"(('MW', '10:00 a.m.-11:00 a.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",BUR 116MAI 220E,Face-to-face,"SEEGEL, STEVEN",open,,First-Year Signature Course
+UGS  303 HIDDEN LIVES OF MAPS         ,61200,"(('MW', '10:00 a.m.-11:00 a.m.'), ('TH', '2:00 p.m.-3:00 p.m.'))",BUR 116MAI 220F,Face-to-face,"SEEGEL, STEVEN",open,,First-Year Signature Course
+UGS  303 HIDDEN LIVES OF MAPS         ,61205,"(('MW', '10:00 a.m.-11:00 a.m.'), ('TH', '3:00 p.m.-4:00 p.m.'))",BUR 116MAI 220F,Face-to-face,"SEEGEL, STEVEN",open,,First-Year Signature Course
+UGS  303 HIDDEN LIVES OF MAPS         ,61210,"(('MW', '10:00 a.m.-11:00 a.m.'), ('TH', '4:00 p.m.-5:00 p.m.'))",BUR 116MAI 220F,Face-to-face,"SEEGEL, STEVEN",open,,First-Year Signature Course
+UTS  306K HANDS-ON SCIENCE II         ,46660,"(('MW', '10:00 a.m.-12:00 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",PMA 7.114PMA 7.114,Face-to-face,"CHIMONIDOU, ANTONIA",open; reserved,,"Natural Science and Technology, Part I"
+ARC  384G ENV CTRL: LIGHT/SOUND/ELECTRIC         ,01045,"(('MW', '10:30 a.m.-12:00 p.m.'), ('M', '7:00 p.m.-8:00 p.m.'))",SUT 2.114SUT 2.114,Face-to-face,"PYREK, ADAM ALEKSANDER",open; reserved,,
+ARI  384G ENV CTRL: LIGHT/SOUND/ELECTRIC         ,00415,"(('MW', '10:30 a.m.-12:00 p.m.'), ('M', '7:00 p.m.-8:00 p.m.'))",SUT 2.114SUT 2.114,Face-to-face,"PYREK, ADAM ALEKSANDER",open; reserved,,
+ECE  312H SOFTWR DSGN/IMPLEMNTATN I: HON         ,16675,"(('MW', '10:30 a.m.-12:00 p.m.'), ('TH', '1:00 p.m.-2:00 p.m.'))",ECJ 1.214EER 0.818,Face-to-face,"SANTACRUZ, PEDRO ENRIQUE",open; reserved,,
+ECE  312H SOFTWR DSGN/IMPLEMNTATN I: HON         ,16680,"(('MW', '10:30 a.m.-12:00 p.m.'), ('TH', '2:00 p.m.-3:00 p.m.'))",ECJ 1.214EER 0.818,Face-to-face,"SANTACRUZ, PEDRO ENRIQUE",open; reserved,,
+ECE  312H SOFTWR DSGN/IMPLEMNTATN I: HON         ,16685,"(('MW', '10:30 a.m.-12:00 p.m.'), ('TH', '3:00 p.m.-4:00 p.m.'))",ECJ 1.214EER 0.818,Face-to-face,"SANTACRUZ, PEDRO ENRIQUE",open; reserved,,
+ECE  312H SOFTWR DSGN/IMPLEMNTATN I: HON         ,16690,"(('MW', '10:30 a.m.-12:00 p.m.'), ('TH', '4:00 p.m.-5:00 p.m.'))",ECJ 1.214EER 0.818,Face-to-face,"SANTACRUZ, PEDRO ENRIQUE",open; reserved,,
+ECE  445S REAL-TIME DIGITAL SIG PROC LAB         ,17015,"(('MW', '10:30 a.m.-12:00 p.m.'), ('F', '1:00 p.m.-4:00 p.m.'))",ECJ 1.312EER 1.810,Face-to-face,"EVANS, BRIAN L",open; reserved,,
+ECE  445S REAL-TIME DIGITAL SIG PROC LAB         ,17020,"(('MW', '10:30 a.m.-12:00 p.m.'), ('T', '3:30 p.m.-6:30 p.m.'))",ECJ 1.312EER 1.810,Face-to-face,"EVANS, BRIAN L",open; reserved,,
+ECE  445S REAL-TIME DIGITAL SIG PROC LAB         ,17025,"(('MW', '10:30 a.m.-12:00 p.m.'), ('M', '6:30 p.m.-9:30 p.m.'))",ECJ 1.312EER 1.810,Face-to-face,"EVANS, BRIAN L",open; reserved,,
+ECE  445S REAL-TIME DIGITAL SIG PROC LAB         ,17030,"(('MW', '10:30 a.m.-12:00 p.m.'), ('W', '6:30 p.m.-9:30 p.m.'))",ECJ 1.312EER 1.810,Face-to-face,"EVANS, BRIAN L",open; reserved,,
+KIN  352K ADV ASSESS FOR HLTH AND SPORT         ,12640,"(('MW', '10:30 a.m.-12:00 p.m.'), ('W', '12:00 p.m.-3:00 p.m.'))",BEL 858BEL 966,Face-to-face,"MONACO, JEFF",open,,
+KIN  352K ADV ASSESS FOR HLTH AND SPORT         ,12645,"(('MW', '10:30 a.m.-12:00 p.m.'), ('F', '12:00 p.m.-3:00 p.m.'))",BEL 858BEL 966,Face-to-face,"MONACO, JEFF",open,,
+AHC  319D ANCIENT MEDITERRANEAN WORLD         ,32745,"(('MW', '11:00 a.m.-12:00 p.m.'), ('TH', '11:00 a.m.-12:00 p.m.'))",WAG 201CBA 4.336,Face-to-face,"PERLMAN, PAULA J",open,Global Cultures,
+AHC  319D ANCIENT MEDITERRANEAN WORLD         ,32750,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",WAG 201WAG 112,Face-to-face,"PERLMAN, PAULA J",open,Global Cultures,
+AHC  319D ANCIENT MEDITERRANEAN WORLD         ,32755,"(('MW', '11:00 a.m.-12:00 p.m.'), ('TH', '1:00 p.m.-2:00 p.m.'))",WAG 201CBA 4.338,Face-to-face,"PERLMAN, PAULA J",open,Global Cultures,
+AHC  319D ANCIENT MEDITERRANEAN WORLD         ,32760,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",WAG 201WAG 208,Face-to-face,"PERLMAN, PAULA J",open,Global Cultures,
+ANT  304 INTRO ARCHAEOL STDS: PREHIST         ,31165,"(('MW', '11:00 a.m.-12:00 p.m.'), ('T', '8:30 a.m.-9:30 a.m.'))",BEL 328WCP 4.174,Face-to-face,"COVEY, RONALD",open,Global Cultures,"Natural Science and Technology, Part I"
+ANT  304 INTRO ARCHAEOL STDS: PREHIST         ,31170,"(('MW', '11:00 a.m.-12:00 p.m.'), ('TH', '8:30 a.m.-9:30 a.m.'))",BEL 328WCP 4.174,Face-to-face,"COVEY, RONALD",open,Global Cultures,"Natural Science and Technology, Part I"
+ANT  304 INTRO ARCHAEOL STDS: PREHIST         ,31175,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",BEL 328WCP 4.174,Face-to-face,"COVEY, RONALD",open,Global Cultures,"Natural Science and Technology, Part I"
+ANT  304 INTRO ARCHAEOL STDS: PREHIST         ,31180,"(('MW', '11:00 a.m.-12:00 p.m.'), ('W', '1:00 p.m.-2:00 p.m.'))",BEL 328WCP 4.174,Face-to-face,"COVEY, RONALD",open,Global Cultures,"Natural Science and Technology, Part I"
+ANT  304 INTRO ARCHAEOL STDS: PREHIST         ,31185,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '3:00 p.m.-4:00 p.m.'))",BEL 328WCP 4.174,Face-to-face,"COVEY, RONALD",open,Global Cultures,"Natural Science and Technology, Part I"
+ANT  304 INTRO ARCHAEOL STDS: PREHIST         ,31190,"(('MW', '11:00 a.m.-12:00 p.m.'), ('W', '4:00 p.m.-5:00 p.m.'))",BEL 328WCP 4.174,Face-to-face,"COVEY, RONALD",open,Global Cultures,"Natural Science and Technology, Part I"
+ARC  334L ENVIRONMENTAL CONTROLS II         ,00820,"(('MW', '11:00 a.m.-12:30 p.m.'), ('W', '6:30 p.m.-7:30 p.m.'))",GOL 3.120GOL 3.120,Face-to-face,"GARRISON, MICHAEL L",open; reserved,,
+ARH  303 SURV OF RENAIS THRU MODERN ART         ,20075,"(('MW', '11:00 a.m.-12:00 p.m.'), ('TH', '10:00 a.m.-11:00 a.m.'))",JES A121AART 2.208,Face-to-face,"JOHNS, ANN C",open,Global Cultures,Visual and Performing Arts
+ARH  303 SURV OF RENAIS THRU MODERN ART         ,20080,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",JES A121AART 2.208,Face-to-face,"JOHNS, ANN C",open,Global Cultures,Visual and Performing Arts
+ARH  303 SURV OF RENAIS THRU MODERN ART         ,20085,"(('MW', '11:00 a.m.-12:00 p.m.'), ('TH', '11:00 a.m.-12:00 p.m.'))",JES A121AART 2.208,Face-to-face,"JOHNS, ANN C",open,Global Cultures,Visual and Performing Arts
+ARH  303 SURV OF RENAIS THRU MODERN ART         ,20090,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",JES A121AART 2.208,Face-to-face,"JOHNS, ANN C",open,Global Cultures,Visual and Performing Arts
+ARH  303 SURV OF RENAIS THRU MODERN ART         ,20095,"(('MW', '11:00 a.m.-12:00 p.m.'), ('TH', '12:00 p.m.-1:00 p.m.'))",JES A121AART 2.208,Face-to-face,"JOHNS, ANN C",open,Global Cultures,Visual and Performing Arts
+ARH  303 SURV OF RENAIS THRU MODERN ART         ,20100,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",JES A121AART 2.208,Face-to-face,"JOHNS, ANN C",open,Global Cultures,Visual and Performing Arts
+ARH  303 SURV OF RENAIS THRU MODERN ART         ,20105,"(('MW', '11:00 a.m.-12:00 p.m.'), ('TH', '1:00 p.m.-2:00 p.m.'))",JES A121AART 2.208,Face-to-face,"JOHNS, ANN C",open,Global Cultures,Visual and Performing Arts
+ARH  303 SURV OF RENAIS THRU MODERN ART         ,20110,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",JES A121AART 2.208,Face-to-face,"JOHNS, ANN C",open,Global Cultures,Visual and Performing Arts
+ARH  303 SURV OF RENAIS THRU MODERN ART         ,20115,"(('MW', '11:00 a.m.-12:00 p.m.'), ('TH', '2:00 p.m.-3:00 p.m.'))",JES A121AART 2.208,Face-to-face,"JOHNS, ANN C",open,Global Cultures,Visual and Performing Arts
+ARH  303 SURV OF RENAIS THRU MODERN ART         ,20120,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '2:00 p.m.-3:00 p.m.'))",JES A121AART 2.208,Face-to-face,"JOHNS, ANN C",open,Global Cultures,Visual and Performing Arts
+ARH  303 SURV OF RENAIS THRU MODERN ART         ,20125,"(('MW', '11:00 a.m.-12:00 p.m.'), ('TH', '3:00 p.m.-4:00 p.m.'))",JES A121AART 2.208,Face-to-face,"JOHNS, ANN C",open,Global Cultures,Visual and Performing Arts
+ARH  303 SURV OF RENAIS THRU MODERN ART         ,20130,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '3:00 p.m.-4:00 p.m.'))",JES A121AART 2.208,Face-to-face,"JOHNS, ANN C",open,Global Cultures,Visual and Performing Arts
+BCH  339F FOUNDATIONS OF BIOCHEMISTRY         ,54250,"(('MW', '11:00 a.m.-12:30 p.m.'), ('M', '2:00 p.m.-3:00 p.m.'))",ETC 2.136PMA 5.112,Face-to-face,"BARRICK, JEFFREY E",open; reserved,,
+BCH  339F FOUNDATIONS OF BIOCHEMISTRY         ,54255,"(('MW', '11:00 a.m.-12:30 p.m.'), ('M', '3:00 p.m.-4:00 p.m.'))",ETC 2.136PMA 5.112,Face-to-face,"BARRICK, JEFFREY E",open; reserved,,
+BCH  339F FOUNDATIONS OF BIOCHEMISTRY         ,54260,"(('MW', '11:00 a.m.-12:30 p.m.'), ('M', '4:00 p.m.-5:00 p.m.'))",ETC 2.136PMA 5.112,Face-to-face,"BARRICK, JEFFREY E",open; reserved,,
+BIO  311D INTRODUCTORY BIOLOGY II         ,47725,"(('MW', '11:00 a.m.-12:30 p.m.'), ('TH', '8:30 a.m.-9:30 a.m.'))",GDC 2.216,Face-to-face,"ENGLER, HELENE S",open,,"Natural Science and Technology, Part I"
+BIO  311D INTRODUCTORY BIOLOGY II         ,47730,"(('MW', '11:00 a.m.-12:30 p.m.'), ('TH', '9:30 a.m.-10:30 a.m.'))",GDC 2.216SZB 5.624,Face-to-face,"ENGLER, HELENE S",open,,"Natural Science and Technology, Part I"
+BIO  311D INTRODUCTORY BIOLOGY II         ,47735,"(('MW', '11:00 a.m.-12:30 p.m.'), ('TH', '11:00 a.m.-12:00 p.m.'))",GDC 2.216JES A218A,Face-to-face,"ENGLER, HELENE S",open,,"Natural Science and Technology, Part I"
+BIO  311D INTRODUCTORY BIOLOGY II         ,47740,"(('MW', '11:00 a.m.-12:30 p.m.'), ('TH', '12:30 p.m.-1:30 p.m.'))",GDC 2.216JES A209A,Face-to-face,"ENGLER, HELENE S",open,,"Natural Science and Technology, Part I"
+BIO  311D INTRODUCTORY BIOLOGY II         ,47745,"(('MW', '11:00 a.m.-12:30 p.m.'), ('W', '4:00 p.m.-5:00 p.m.'))",GDC 2.216RLP 0.106,Face-to-face,"ENGLER, HELENE S",open,,"Natural Science and Technology, Part I"
+BIO  311D INTRODUCTORY BIOLOGY II         ,47750,"(('MW', '11:00 a.m.-12:30 p.m.'), ('W', '5:00 p.m.-6:00 p.m.'))",GDC 2.216RLP 0.106,Face-to-face,"ENGLER, HELENE S",open,,"Natural Science and Technology, Part I"
+BIO  340L BIOLOGY OF BIRDS         ,48390,"(('MW', '11:00 a.m.-12:00 p.m.'), ('M', '2:00 p.m.-5:00 p.m.'))",GDC 5.304BIO 412,Face-to-face,"KEITT, TIMOTHY H",open,,
+BIO  340L BIOLOGY OF BIRDS         ,48395,"(('MW', '11:00 a.m.-12:00 p.m.'), ('T', '2:00 p.m.-5:00 p.m.'))",GDC 5.304BIO 412,Face-to-face,"KEITT, TIMOTHY H",open,,
+BIO  370 EVOLUTION         ,48880,"(('MW', '11:00 a.m.-12:30 p.m.'), ('T', '8:30 a.m.-9:30 a.m.'))",JGB 2.218BIO 301,Face-to-face,"MUELLER, ULRICH GMATZ, MIKHAIL V",open,,
+BIO  370 EVOLUTION         ,48885,"(('MW', '11:00 a.m.-12:30 p.m.'), ('T', '11:00 a.m.-12:00 p.m.'))",JGB 2.218JES A205A,Face-to-face,"MUELLER, ULRICH GMATZ, MIKHAIL V",open,,
+BIO  370 EVOLUTION         ,48890,"(('MW', '11:00 a.m.-12:30 p.m.'), ('M', '3:00 p.m.-4:00 p.m.'))",JGB 2.218BIO 301,Face-to-face,"MUELLER, ULRICH GMATZ, MIKHAIL V",open,,
+BIO  370 EVOLUTION         ,48895,"(('MW', '11:00 a.m.-12:30 p.m.'), ('M', '4:00 p.m.-5:00 p.m.'))",JGB 2.218BIO 301,Face-to-face,"MUELLER, ULRICH GMATZ, MIKHAIL V",open,,
+C C  319D ANCIENT MEDITERRANEAN WORLD         ,32925,"(('MW', '11:00 a.m.-12:00 p.m.'), ('TH', '11:00 a.m.-12:00 p.m.'))",WAG 201CBA 4.336,Face-to-face,"PERLMAN, PAULA J",open,Global Cultures,
+C C  319D ANCIENT MEDITERRANEAN WORLD         ,32930,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",WAG 201WAG 112,Face-to-face,"PERLMAN, PAULA J",open,Global Cultures,
+C C  319D ANCIENT MEDITERRANEAN WORLD         ,32935,"(('MW', '11:00 a.m.-12:00 p.m.'), ('TH', '1:00 p.m.-2:00 p.m.'))",WAG 201CBA 4.338,Face-to-face,"PERLMAN, PAULA J",open,Global Cultures,
+C C  319D ANCIENT MEDITERRANEAN WORLD         ,32940,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",WAG 201WAG 208,Face-to-face,"PERLMAN, PAULA J",open,Global Cultures,
+C E  397F FORENSIC ENGR: MATLS & STRUC         ,16349,"(('MW', '11:00 a.m.-12:00 p.m.'), ('M', '2:00 p.m.-5:00 p.m.'))",ECJ 1.322ECJ 3.406,Face-to-face,"KALINA, RYAN D",open; reserved,,
+C S  439 PRINCIPLES OF COMPUTER SYS-C S         ,51010,"(('MW', '11:00 a.m.-1:00 p.m.'), ('F', '9:00 a.m.-11:00 a.m.'))",GDC 1.304CBA 4.332,Hybrid or Blended,"NORMAN, ALISON N",open; reserved,Independent Inquiry,
+C S  439 PRINCIPLES OF COMPUTER SYS-C S         ,51015,"(('MW', '11:00 a.m.-1:00 p.m.'), ('F', '11:00 a.m.-1:00 p.m.'))",GDC 1.304CBA 4.332,Hybrid or Blended,"NORMAN, ALISON N",open; reserved,Independent Inquiry,
+C S  439 PRINCIPLES OF COMPUTER SYS-C S         ,51020,"(('MW', '11:00 a.m.-1:00 p.m.'), ('F', '1:00 p.m.-3:00 p.m.'))",GDC 1.304CBA 4.332,Hybrid or Blended,"NORMAN, ALISON N",open; reserved,Independent Inquiry,
+EDC  314 CHILDREN'S MOVEMENT         ,10474,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '10:00 a.m.-12:00 p.m.'))",UTC 1.118BEL 628,Face-to-face,"NAUMANN, TRACEY J",open,,
+EVE  302 FNDTNS ENVIRONMENTAL ENGR         ,16455,"(('MW', '11:00 a.m.-12:00 p.m.'), ('M', '8:00 a.m.-11:00 a.m.'))",CPE 2.218GLT 3.118,Face-to-face,"KATZ, LYNN E",open; reserved,,
+EVE  302 FNDTNS ENVIRONMENTAL ENGR         ,16460,"(('MW', '11:00 a.m.-12:00 p.m.'), ('W', '8:00 a.m.-11:00 a.m.'))",CPE 2.218GLT 3.118,Face-to-face,"KATZ, LYNN E",open; reserved,,
+EVE  302 FNDTNS ENVIRONMENTAL ENGR         ,16465,"(('MW', '11:00 a.m.-12:00 p.m.'), ('T', '9:30 a.m.-12:30 p.m.'))",CPE 2.218GLT 3.118,Face-to-face,"KATZ, LYNN E",open; reserved,,
+EVE  302 FNDTNS ENVIRONMENTAL ENGR         ,16470,"(('MW', '11:00 a.m.-12:00 p.m.'), ('M', '2:00 p.m.-5:00 p.m.'))",CPE 2.218GLT 3.118,Face-to-face,"KATZ, LYNN E",open; reserved,,
+EVE  302 FNDTNS ENVIRONMENTAL ENGR         ,16475,"(('MW', '11:00 a.m.-12:00 p.m.'), ('T', '2:00 p.m.-5:00 p.m.'))",CPE 2.218GLT 3.118,Face-to-face,"KATZ, LYNN E",open; reserved,,
+GER  507 FIRST-YEAR GERMAN II         ,36750,"(('MW', '11:00 a.m.-12:00 p.m.'), ('TTH', '11:00 a.m.-12:30 p.m.'))",JES A303ABUR 232,Face-to-face,"OSSANDON HOSTENS, NAFAL",open,,
+HIS  319D ANCIENT MEDITERRANEAN WORLD         ,37950,"(('MW', '11:00 a.m.-12:00 p.m.'), ('TH', '11:00 a.m.-12:00 p.m.'))",WAG 201CBA 4.336,Face-to-face,"PERLMAN, PAULA J",open,Global Cultures,
+HIS  319D ANCIENT MEDITERRANEAN WORLD         ,37955,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",WAG 201WAG 112,Face-to-face,"PERLMAN, PAULA J",open,Global Cultures,
+HIS  319D ANCIENT MEDITERRANEAN WORLD         ,37960,"(('MW', '11:00 a.m.-12:00 p.m.'), ('TH', '1:00 p.m.-2:00 p.m.'))",WAG 201CBA 4.338,Face-to-face,"PERLMAN, PAULA J",open,Global Cultures,
+HIS  319D ANCIENT MEDITERRANEAN WORLD         ,37965,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",WAG 201WAG 208,Face-to-face,"PERLMAN, PAULA J",open,Global Cultures,
+KIN  314 CHILDREN'S MOVEMENT         ,12230,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '10:00 a.m.-12:00 p.m.'))",UTC 1.118BEL 628,Face-to-face,"NAUMANN, TRACEY J",open; reserved,,
+RTF  346 INTRODUCTION TO EDITING         ,09465,"(('MW', '11:00 a.m.-12:30 p.m.'), ('M', '5:00 p.m.-6:30 p.m.'))",CMB 4.114CMB 4.114,Face-to-face,"KOCHER, KAREN J",open,Independent Inquiry,
+RTF  346 INTRODUCTION TO EDITING         ,09470,"(('MW', '11:00 a.m.-12:30 p.m.'), ('M', '6:30 p.m.-8:00 p.m.'))",CMB 4.114CMB 4.114,Face-to-face,"KOCHER, KAREN J",open,Independent Inquiry,
+SDS  320E ELEMENTS OF STATISTICS         ,56545,"(('MW', '11:00 a.m.-12:30 p.m.'), ('T', '9:00 a.m.-10:00 a.m.'))",UTC 4.112FAC 101B,Face-to-face,"BLONDEAU, LAUREN ALEXANDR",open,Independent InquiryEthicsQuantitative Reasoning,Mathematics
+SDS  320E ELEMENTS OF STATISTICS         ,56550,"(('MW', '11:00 a.m.-12:30 p.m.'), ('T', '10:00 a.m.-11:00 a.m.'))",UTC 4.112FAC 101B,Face-to-face,"BLONDEAU, LAUREN ALEXANDR",open,Independent InquiryEthicsQuantitative Reasoning,Mathematics
+SDS  322E ELEMENTS OF DATA SCIENCE         ,56665,"(('MW', '11:00 a.m.-12:30 p.m.'), ('TH', '5:00 p.m.-6:00 p.m.'))",UTC 3.122FAC 101B,Face-to-face,"GUYOT, LAYLA",open,,
+SDS  322E ELEMENTS OF DATA SCIENCE         ,56670,"(('MW', '11:00 a.m.-12:30 p.m.'), ('TH', '6:00 p.m.-7:00 p.m.'))",UTC 3.122FAC 101B,Face-to-face,"GUYOT, LAYLA",open,,
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43065,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",ART 1.102PAR 303,Face-to-face,"SHAPIRA, HAREL",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43070,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",ART 1.102GAR 2.112,Face-to-face,"SHAPIRA, HAREL",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43075,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",ART 1.102GDC 2.210,Face-to-face,"SHAPIRA, HAREL",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43080,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",ART 1.102PAR 303,Face-to-face,"SHAPIRA, HAREL",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43085,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",ART 1.102GAR 2.112,Face-to-face,"SHAPIRA, HAREL",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43090,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",ART 1.102GDC 2.210,Face-to-face,"SHAPIRA, HAREL",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43095,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",ART 1.102JGB 2.202,Face-to-face,"SHAPIRA, HAREL",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43100,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",ART 1.102JGB 2.202,Face-to-face,"SHAPIRA, HAREL",open,,Social and Behavioral Sciences
+SOC  327M SOCIAL RESEARCH METHODS         ,43280,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '11:00 a.m.-1:00 p.m.'))",JGB 2.202RLP 1.404,Face-to-face,"CARAMANIS, CHRISTINA NEFE",open; reserved,Quantitative ReasoningWritingIndependent Inquiry,
+T D  381F METHODS AND PRACTICES         ,26110,"(('MW', '11:00 a.m.-12:30 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",LTH 1.110WIN 1.114,Face-to-face,"SANCHEZ, KJ",cancelled,,
+UGS  303 GLOBAL DETECTIVE FICTION         ,61140,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",PAR 203MAI 220A,Face-to-face,"DRUMSTA, EMILY L",open,,First-Year Signature Course
+UGS  303 GLOBAL DETECTIVE FICTION         ,61145,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",PAR 203MAI 220A,Face-to-face,"DRUMSTA, EMILY L",open,,First-Year Signature Course
+UGS  303 GLOBAL DETECTIVE FICTION         ,61150,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",PAR 203MAI 220A,Face-to-face,"DRUMSTA, EMILY L",open,,First-Year Signature Course
+"UGS  303 SCIENCE, TECH, AND POLITICS         ",61460,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",PAR 1PAR 305,Face-to-face,"WELLHAUSEN, RACHEL",open,,First-Year Signature Course
+"UGS  303 SCIENCE, TECH, AND POLITICS         ",61465,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",PAR 1PAR 305,Face-to-face,"WELLHAUSEN, RACHEL",open,,First-Year Signature Course
+"UGS  303 SCIENCE, TECH, AND POLITICS         ",61470,"(('MW', '11:00 a.m.-12:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",PAR 1PAR 310,Face-to-face,"WELLHAUSEN, RACHEL",open,,First-Year Signature Course
+CH  431 INORGANIC CHEMISTRY         ,50190,"(('MW', '11:30 a.m.-1:00 p.m.'), ('F', '9:00 a.m.-12:00 p.m.'))",BUR 136WEL 5.148,Face-to-face,"QUE, EMILYBARANOVA, ZUZANA",open,Quantitative ReasoningWriting,
+CH  431 INORGANIC CHEMISTRY         ,50195,"(('MW', '11:30 a.m.-1:00 p.m.'), ('F', '1:00 p.m.-4:00 p.m.'))",BUR 136WEL 5.148,Face-to-face,"QUE, EMILYBARANOVA, ZUZANA",open,Quantitative ReasoningWriting,
+CH  431 INORGANIC CHEMISTRY         ,50200,"(('MW', '11:30 a.m.-1:00 p.m.'), ('M', '2:00 p.m.-5:00 p.m.'))",BUR 136WEL 5.148,Face-to-face,"QUE, EMILYBARANOVA, ZUZANA",open,Quantitative ReasoningWriting,
+CH  431 INORGANIC CHEMISTRY         ,50205,"(('MW', '11:30 a.m.-1:00 p.m.'), ('T', '2:00 p.m.-5:00 p.m.'))",BUR 136WEL 5.148,Face-to-face,"QUE, EMILYBARANOVA, ZUZANA",open,Quantitative ReasoningWriting,
+CH  431 INORGANIC CHEMISTRY         ,50210,"(('MW', '11:30 a.m.-1:00 p.m.'), ('W', '2:00 p.m.-5:00 p.m.'))",BUR 136WEL 5.148,Face-to-face,"QUE, EMILYBARANOVA, ZUZANA",open,Quantitative ReasoningWriting,
+CH  431 INORGANIC CHEMISTRY         ,50215,"(('MW', '11:30 a.m.-1:00 p.m.'), ('TH', '2:00 p.m.-5:00 p.m.'))",BUR 136WEL 5.148,Face-to-face,"QUE, EMILYBARANOVA, ZUZANA",open,Quantitative ReasoningWriting,
+ARE  320L INTRODUCTION TO DESIGN II         ,15670,"(('MW', '12:00 p.m.-3:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'), ('F', '1:00 p.m.-3:00 p.m.'))",ECJ 3.106ECJ 1.204ECJ 3.106,Face-to-face,"BROOKS, GREGORY L",open; reserved,,
+BCH  369L BIOCHEMISTRY LABORATORY         ,54355,"(('MW', '12:00 p.m.-1:00 p.m.'), ('MW', '8:00 a.m.-11:30 a.m.'))",GEA 105NHB 1.306,Face-to-face,"MCDONALD, GENE D",open; reserved,Quantitative ReasoningWriting,
+BCH  369L BIOCHEMISTRY LABORATORY         ,54360,"(('MW', '12:00 p.m.-1:00 p.m.'), ('TTH', '9:30 a.m.-1:00 p.m.'))",GEA 105NHB 1.306,Face-to-face,"MCDONALD, GENE D",open; reserved,Quantitative ReasoningWriting,
+BCH  369L BIOCHEMISTRY LABORATORY         ,54365,"(('MW', '12:00 p.m.-1:00 p.m.'), ('MW', '1:00 p.m.-4:30 p.m.'))",GEA 105NHB 1.306,Face-to-face,"MCDONALD, GENE D",open; reserved,Quantitative ReasoningWriting,
+BCH  369L BIOCHEMISTRY LABORATORY         ,54370,"(('MW', '12:00 p.m.-1:00 p.m.'), ('FS', '1:00 p.m.-4:30 p.m.'))",GEA 105NHB 1.306,Face-to-face,"MCDONALD, GENE D",open; reserved,Quantitative ReasoningWriting,
+BCH  369L BIOCHEMISTRY LABORATORY         ,54375,"(('MW', '12:00 p.m.-1:00 p.m.'), ('TTH', '2:00 p.m.-5:30 p.m.'))",GEA 105NHB 1.306,Face-to-face,"MCDONALD, GENE D",open; reserved,Quantitative ReasoningWriting,
+BCH  369L BIOCHEMISTRY LABORATORY         ,54380,"(('MW', '12:00 p.m.-1:00 p.m.'), ('MW', '5:00 p.m.-8:30 p.m.'))",GEA 105NHB 1.306,Face-to-face,"MCDONALD, GENE D",open; reserved,Quantitative ReasoningWriting,
+BCH  369L BIOCHEMISTRY LABORATORY         ,54385,"(('MW', '12:00 p.m.-1:00 p.m.'), ('TTH', '6:00 p.m.-9:30 p.m.'))",GEA 105NHB 1.306,Face-to-face,"MCDONALD, GENE D",open; reserved,Quantitative ReasoningWriting,
+CMS  354 CONFLICT RESOLUTION         ,08270,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",CMA 3.124,Hybrid or Blended,"SCHOOLER, LAWRENCE P",open,WritingIndependent InquiryEthics,
+ECE  312H SOFTWR DSGN/IMPLEMNTATN I: HON         ,16695,"(('MW', '12:00 p.m.-1:30 p.m.'), ('TH', '9:00 a.m.-10:00 a.m.'))",UTC 3.112EER 0.818,Face-to-face,"NANDAKUMAR, VALLATH",open; reserved,,
+ECE  312H SOFTWR DSGN/IMPLEMNTATN I: HON         ,16700,"(('MW', '12:00 p.m.-1:30 p.m.'), ('TH', '10:00 a.m.-11:00 a.m.'))",UTC 3.112EER 0.818,Face-to-face,"NANDAKUMAR, VALLATH",open; reserved,,
+ECE  312H SOFTWR DSGN/IMPLEMNTATN I: HON         ,16705,"(('MW', '12:00 p.m.-1:30 p.m.'), ('TH', '11:00 a.m.-12:00 p.m.'))",UTC 3.112EER 0.818,Face-to-face,"NANDAKUMAR, VALLATH",open; reserved,,
+ECE  312H SOFTWR DSGN/IMPLEMNTATN I: HON         ,16710,"(('MW', '12:00 p.m.-1:30 p.m.'), ('TH', '12:00 p.m.-1:00 p.m.'))",UTC 3.112EER 0.818,Face-to-face,"NANDAKUMAR, VALLATH",open; reserved,,
+ECE  319K INTRO TO EMBEDDED SYSTEMS         ,16810,"(('MW', '12:00 p.m.-1:30 p.m.'), ('T', '10:00 a.m.-11:00 a.m.'))",ECJ 1.214EER 1.826,Face-to-face,"VALVANO, JONATHAN W",open; reserved,,
+ECE  319K INTRO TO EMBEDDED SYSTEMS         ,16815,"(('MW', '12:00 p.m.-1:30 p.m.'), ('T', '11:00 a.m.-12:00 p.m.'))",ECJ 1.214EER 1.826,Face-to-face,"VALVANO, JONATHAN W",open; reserved,,
+ECE  319K INTRO TO EMBEDDED SYSTEMS         ,16820,"(('MW', '12:00 p.m.-1:30 p.m.'), ('T', '12:00 p.m.-1:00 p.m.'))",ECJ 1.214EER 1.826,Face-to-face,"VALVANO, JONATHAN W",open; reserved,,
+ECE  319K INTRO TO EMBEDDED SYSTEMS         ,16825,"(('MW', '12:00 p.m.-1:30 p.m.'), ('T', '1:00 p.m.-2:00 p.m.'))",ECJ 1.214EER 1.826,Face-to-face,"VALVANO, JONATHAN W",open; reserved,,
+ECE  364D INTRO TO ENGINEERING DESIGN         ,17185,"(('MW', '12:00 p.m.-1:00 p.m.'), ('MW', '1:30 p.m.-3:00 p.m.'))",CPE 2.204,Face-to-face,"SALEH, SAAD JAMIL",open; reserved,Writing,
+ECE  364D INTRO TO ENGINEERING DESIGN         ,17190,"(('MW', '12:00 p.m.-1:00 p.m.'), ('MW', '3:00 p.m.-4:30 p.m.'))",CPE 2.204,Face-to-face,"SALEH, SAAD JAMIL",open,Writing,
+GER  506 FIRST-YEAR GERMAN I         ,36740,"(('MW', '12:00 p.m.-1:00 p.m.'), ('TTH', '12:30 p.m.-2:00 p.m.'))",JES A203AJES A305A,Face-to-face,"THORNTON, LIZANNE JILL",open,,
+GER  507 FIRST-YEAR GERMAN II         ,36755,"(('MW', '12:00 p.m.-1:00 p.m.'), ('TTH', '12:30 p.m.-2:00 p.m.'))",JES A303AJES A303A,Face-to-face,"OSTERHAUS, ERIN REBECCA",open,,
+M E  333T ENGINEERING COMMUNICATION         ,18145,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '10:00 a.m.-12:00 p.m.'))",ETC 3.112ETC 2.140,Face-to-face,"HEMPEL-MEDINA, DEBORAH S",cancelled,WritingEthics,
+M E  333T ENGINEERING COMMUNICATION         ,18150,"(('MW', '12:00 p.m.-1:00 p.m.'), ('TH', '2:00 p.m.-4:00 p.m.'))",ETC 3.112ETC 2.140,Face-to-face,"HEMPEL-MEDINA, DEBORAH S",cancelled,WritingEthics,
+M E  333T ENGINEERING COMMUNICATION         ,18155,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '3:00 p.m.-5:00 p.m.'))",ETC 3.112ETC 3.108,Face-to-face,"HEMPEL-MEDINA, DEBORAH S",cancelled,WritingEthics,
+MAL  507 FIRST-YEAR MALAYALAM II         ,32525,"(('MW', '12:00 p.m.-1:00 p.m.'), ('TTH', '11:00 a.m.-12:30 p.m.'))",MEZ 1.204CBA 4.342,Face-to-face,"MANAYATHU SASI, DARSANA",open,,
+MUS  271P 2-PEDAGOGY: PIANO II         ,22520,"(('MW', '12:00 p.m.-1:00 p.m.'), ('T', '5:00 p.m.-7:00 p.m.'))",MRH 5.244,Face-to-face,"DENENBURG, MARGARITA",open; reserved,,
+MUS  281P 2-GRADUATE PEDAGOGY: PIANO II         ,22765,"(('MW', '12:00 p.m.-1:00 p.m.'), ('T', '5:00 p.m.-7:00 p.m.'))",MRH 5.244,Face-to-face,"DENENBURG, MARGARITA",open; reserved,,
+PHL  318 INTRODUCTION TO ETHICS         ,40470,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",WAG 420SZB 5.624,Face-to-face,"SMITH, NICOLE",open,Ethics,
+PHL  318 INTRODUCTION TO ETHICS         ,40475,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",WAG 420SZB 5.624,Face-to-face,"SMITH, NICOLE",open,Ethics,
+PHL  318 INTRODUCTION TO ETHICS         ,40480,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '2:00 p.m.-3:00 p.m.'))",WAG 420SZB 5.624,Face-to-face,"SMITH, NICOLE",open,Ethics,
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43105,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",JES A121AJES A303A,Face-to-face,"FULTON, KELLY",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43110,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",JES A121AJES A303A,Face-to-face,"FULTON, KELLY",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43115,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",JES A121AJES A305A,Face-to-face,"FULTON, KELLY",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43120,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",JES A121AJES A303A,Face-to-face,"FULTON, KELLY",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43125,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",JES A121AJES A305A,Face-to-face,"FULTON, KELLY",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43130,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",JES A121AJES A307A,Face-to-face,"FULTON, KELLY",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43135,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",JES A121AJES A303A,Face-to-face,"FULTON, KELLY",open,,Social and Behavioral Sciences
+SOC  302 INTRO TO THE STUDY OF SOCIETY         ,43140,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",JES A121AJES A307A,Face-to-face,"FULTON, KELLY",open,,Social and Behavioral Sciences
+UGS  303 GLOBAL POP MUSIC         ,61155,"(('MW', '12:00 p.m.-1:00 p.m.'), ('TH', '8:00 a.m.-9:00 a.m.'))",RLP 0.128MAI 220E,Face-to-face,"GABRILLO, JAMES",open,Global Cultures,First-Year Signature Course
+UGS  303 GLOBAL POP MUSIC         ,61160,"(('MW', '12:00 p.m.-1:00 p.m.'), ('TH', '9:00 a.m.-10:00 a.m.'))",RLP 0.128MAI 220E,Face-to-face,"GABRILLO, JAMES",open,Global Cultures,First-Year Signature Course
+UGS  303 GLOBAL POP MUSIC         ,61165,"(('MW', '12:00 p.m.-1:00 p.m.'), ('TH', '10:00 a.m.-11:00 a.m.'))",RLP 0.128MAI 220E,Face-to-face,"GABRILLO, JAMES",open,Global Cultures,First-Year Signature Course
+UGS  303 GLOBAL POP MUSIC         ,61170,"(('MW', '12:00 p.m.-1:00 p.m.'), ('TH', '1:00 p.m.-2:00 p.m.'))",RLP 0.128MAI 220E,Face-to-face,"GABRILLO, JAMES",open,Global Cultures,First-Year Signature Course
+UGS  303 GLOBAL POP MUSIC         ,61175,"(('MW', '12:00 p.m.-1:00 p.m.'), ('TH', '2:00 p.m.-3:00 p.m.'))",RLP 0.128MAI 220E,Face-to-face,"GABRILLO, JAMES",open,Global Cultures,First-Year Signature Course
+UGS  303 GLOBAL POP MUSIC         ,61180,"(('MW', '12:00 p.m.-1:00 p.m.'), ('TH', '3:00 p.m.-4:00 p.m.'))",RLP 0.128MAI 220E,Face-to-face,"GABRILLO, JAMES",open,Global Cultures,First-Year Signature Course
+UGS  303 STORIES FROM THE MUSLIM WEST         ,61595,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",RLP 1.106PAR 214,Face-to-face,"AZAM, HINA",open,WritingEthicsCultural Diversity,First-Year Signature Course
+UGS  303 STORIES FROM THE MUSLIM WEST         ,61600,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",RLP 1.106PAR 214,Face-to-face,"AZAM, HINA",open,WritingEthicsCultural Diversity,First-Year Signature Course
+UGS  303 STORIES FROM THE MUSLIM WEST         ,61605,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",RLP 1.106PAR 310,Face-to-face,"AZAM, HINA",open,WritingEthicsCultural Diversity,First-Year Signature Course
+UGS  303 STORIES FROM THE MUSLIM WEST         ,61610,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '2:00 p.m.-3:00 p.m.'))",RLP 1.106PAR 302,Face-to-face,"AZAM, HINA",open,WritingEthicsCultural Diversity,First-Year Signature Course
+UGS  303 WHO AM I         ,61700,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",WAG 101MAI 220D,Face-to-face,"SCHOENFIELD, MIRIAM",open,,First-Year Signature Course
+UGS  303 WHO AM I         ,61705,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",WAG 101MAI 220D,Face-to-face,"SCHOENFIELD, MIRIAM",open,,First-Year Signature Course
+UGS  303 WHO AM I         ,61710,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",WAG 101MAI 220D,Face-to-face,"SCHOENFIELD, MIRIAM",open,,First-Year Signature Course
+UGS  303 WHO AM I         ,61715,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",WAG 101MAI 220D,Face-to-face,"SCHOENFIELD, MIRIAM",open,,First-Year Signature Course
+UGS  303 WHO AM I         ,61720,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",WAG 101MAI 220D,Face-to-face,"SCHOENFIELD, MIRIAM",open,,First-Year Signature Course
+UGS  303 WHO AM I         ,61725,"(('MW', '12:00 p.m.-1:00 p.m.'), ('F', '2:00 p.m.-3:00 p.m.'))",WAG 101MAI 220D,Face-to-face,"SCHOENFIELD, MIRIAM",open,,First-Year Signature Course
+URD  507 FIRST-YEAR URDU II         ,32660,"(('MW', '12:00 p.m.-1:00 p.m.'), ('TTH', '12:30 p.m.-2:00 p.m.'))",PAR 308PAR 101,Face-to-face,"HASSAN, SHAHNAZ",open,,
+UTS  306K HANDS-ON SCIENCE II         ,46665,"(('MW', '12:00 p.m.-2:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",PMA 7.114PMA 7.114,Face-to-face,"DUNN, DENNIS P",open; reserved,,"Natural Science and Technology, Part I"
+UTS  306M HANDS-ON SCIENCE IV         ,46680,"(('MW', '12:00 p.m.-2:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",PMA 7.116PMA 7.116,Face-to-face,"MARINOVA, IRINA STOILOVA",open; reserved,,"Natural Science and Technology, Part I"
+BIO  320 CELL BIOLOGY         ,47905,"(('MW', '12:30 p.m.-2:00 p.m.'), ('TH', '8:30 a.m.-9:30 a.m.'))",ECJ 1.204,Face-to-face,"DE WAAL, ERIC M",open,,
+BIO  320 CELL BIOLOGY         ,47910,"(('MW', '12:30 p.m.-2:00 p.m.'), ('TH', '9:30 a.m.-10:30 a.m.'))",ECJ 1.204,Face-to-face,"DE WAAL, ERIC M",open,,
+BIO  320 CELL BIOLOGY         ,47915,"(('MW', '12:30 p.m.-2:00 p.m.'), ('TH', '11:00 a.m.-12:00 p.m.'))",ECJ 1.204,Face-to-face,"DE WAAL, ERIC M",open,,
+BIO  320 CELL BIOLOGY         ,47920,"(('MW', '12:30 p.m.-2:00 p.m.'), ('TH', '12:30 p.m.-1:30 p.m.'))",ECJ 1.204,Face-to-face,"DE WAAL, ERIC M",open,,
+BIO  370 EVOLUTION         ,48920,"(('MW', '12:30 p.m.-2:00 p.m.'), ('T', '2:00 p.m.-3:00 p.m.'))",JGB 2.218,Face-to-face,"MATZ, MIKHAIL VMUELLER, ULRICH G",open,,
+BIO  370 EVOLUTION         ,48925,"(('MW', '12:30 p.m.-2:00 p.m.'), ('T', '3:00 p.m.-4:00 p.m.'))",JGB 2.218SZB 3.802,Face-to-face,"MATZ, MIKHAIL VMUELLER, ULRICH G",open,,
+BIO  370 EVOLUTION         ,48930,"(('MW', '12:30 p.m.-2:00 p.m.'), ('T', '4:00 p.m.-5:00 p.m.'))",JGB 2.218JES A207A,Face-to-face,"MATZ, MIKHAIL VMUELLER, ULRICH G",open,,
+BIO  370 EVOLUTION         ,48935,"(('MW', '12:30 p.m.-2:00 p.m.'), ('T', '5:00 p.m.-6:00 p.m.'))",JGB 2.218GDC 5.304,Face-to-face,"MATZ, MIKHAIL VMUELLER, ULRICH G",open,,
+GEO  476M AQUEOUS GEOCHEMISTRY         ,27095,"(('MW', '12:30 p.m.-2:00 p.m.'), ('F', '3:00 p.m.-5:00 p.m.'))",EPS 1.126JGB 2.312,Face-to-face,"BREECKER, DANIEL O",open,Independent InquiryQuantitative Reasoning,
+GEO  387C AQUEOUS GEOCHEMISTRY         ,27160,"(('MW', '12:30 p.m.-2:00 p.m.'), ('F', '3:00 p.m.-5:00 p.m.'))",EPS 1.126JGB 2.312,Face-to-face,"BREECKER, DANIEL O",open,,
+SDS  320E ELEMENTS OF STATISTICS         ,56555,"(('MW', '12:30 p.m.-2:00 p.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",UTC 3.132FAC 101B,Face-to-face,,open,Independent InquiryEthicsQuantitative Reasoning,Mathematics
+SDS  320E ELEMENTS OF STATISTICS         ,56560,"(('MW', '12:30 p.m.-2:00 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",UTC 3.132FAC 101B,Face-to-face,,open,Independent InquiryEthicsQuantitative Reasoning,Mathematics
+"ARE  366 CONTRACTS, LIABILITY, & ETHICS         ",15710,"(('MW', '1:00 p.m.-2:00 p.m.'), ('T', '3:30 p.m.-5:30 p.m.'))",GLT 5.104ECJ 1.322,Face-to-face,"BORCHERDING, JOHN D",open; reserved,,
+"ARE  366 CONTRACTS, LIABILITY, & ETHICS         ",15715,"(('MW', '1:00 p.m.-2:00 p.m.'), ('TH', '3:30 p.m.-5:30 p.m.'))",GLT 5.104ECJ 1.322,Face-to-face,"BORCHERDING, JOHN D",open; reserved,,
+BIO  301E PROBLEMS IN MODERN BIOLOGY         ,47015,"(('MW', '1:00 p.m.-2:30 p.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",BUR 220RLP 0.124,Face-to-face,"HANSEN, DEBRA R",open; reserved,,"Natural Science and Technology, Part I"
+BIO  301E PROBLEMS IN MODERN BIOLOGY         ,47020,"(('MW', '1:00 p.m.-2:30 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",BUR 220RLP 0.108,Face-to-face,"HANSEN, DEBRA R",open; reserved,,"Natural Science and Technology, Part I"
+BIO  301E PROBLEMS IN MODERN BIOLOGY         ,47025,"(('MW', '1:00 p.m.-2:30 p.m.'), ('TH', '12:30 p.m.-1:30 p.m.'))",BUR 220CMA 3.108,Face-to-face,"HANSEN, DEBRA R",open; reserved,,"Natural Science and Technology, Part I"
+BIO  301E PROBLEMS IN MODERN BIOLOGY         ,47030,"(('MW', '1:00 p.m.-2:30 p.m.'), ('TH', '2:00 p.m.-3:00 p.m.'))",BUR 220CBA 4.346,Face-to-face,"HANSEN, DEBRA R",open; reserved,,"Natural Science and Technology, Part I"
+BIO  311D INTRODUCTORY BIOLOGY II         ,47695,"(('MW', '1:00 p.m.-2:30 p.m.'), ('T', '8:30 a.m.-9:30 a.m.'))",GAR 0.102GDC 5.304,Face-to-face,"ENGLER, HELENE S",open,,"Natural Science and Technology, Part I"
+BIO  311D INTRODUCTORY BIOLOGY II         ,47700,"(('MW', '1:00 p.m.-2:30 p.m.'), ('T', '9:30 a.m.-10:30 a.m.'))",GAR 0.102,Face-to-face,"ENGLER, HELENE S",open,,"Natural Science and Technology, Part I"
+BIO  311D INTRODUCTORY BIOLOGY II         ,47705,"(('MW', '1:00 p.m.-2:30 p.m.'), ('T', '11:00 a.m.-12:00 p.m.'))",GAR 0.102JES A215A,Face-to-face,"ENGLER, HELENE S",open,,"Natural Science and Technology, Part I"
+BIO  311D INTRODUCTORY BIOLOGY II         ,47710,"(('MW', '1:00 p.m.-2:30 p.m.'), ('T', '12:30 p.m.-1:30 p.m.'))",GAR 0.102JES A203A,Face-to-face,"ENGLER, HELENE S",open,,"Natural Science and Technology, Part I"
+BIO  311D INTRODUCTORY BIOLOGY II         ,47715,"(('MW', '1:00 p.m.-2:30 p.m.'), ('T', '2:00 p.m.-3:00 p.m.'))",GAR 0.102ECJ 1.308,Face-to-face,"ENGLER, HELENE S",open,,"Natural Science and Technology, Part I"
+BIO  311D INTRODUCTORY BIOLOGY II         ,47720,"(('MW', '1:00 p.m.-2:30 p.m.'), ('T', '3:30 p.m.-4:30 p.m.'))",GAR 0.102RLP 0.122,Face-to-face,"ENGLER, HELENE S",open,,"Natural Science and Technology, Part I"
+C E  301 CIVIL ENGINEERING SYSTEMS         ,15785,"(('MW', '1:00 p.m.-2:00 p.m.'), ('T', '9:30 a.m.-12:30 p.m.'))",BUR 224ECJ 3.406,Face-to-face,"BOYLES, STEPHEN",open; reserved,,
+C E  301 CIVIL ENGINEERING SYSTEMS         ,15790,"(('MW', '1:00 p.m.-2:00 p.m.'), ('TH', '9:30 a.m.-12:30 p.m.'))",BUR 224ECJ 3.406,Face-to-face,"BOYLES, STEPHEN",open; reserved,,
+C E  301 CIVIL ENGINEERING SYSTEMS         ,15795,"(('MW', '1:00 p.m.-2:00 p.m.'), ('T', '2:00 p.m.-5:00 p.m.'))",BUR 224ECJ 3.406,Face-to-face,"BOYLES, STEPHEN",open; reserved,,
+C E  301 CIVIL ENGINEERING SYSTEMS         ,15800,"(('MW', '1:00 p.m.-2:00 p.m.'), ('TH', '2:00 p.m.-5:00 p.m.'))",BUR 224ECJ 3.406,Face-to-face,"BOYLES, STEPHEN",open; reserved,,
+C E  301 CIVIL ENGINEERING SYSTEMS         ,15805,"(('MW', '1:00 p.m.-2:00 p.m.'), ('W', '3:00 p.m.-6:00 p.m.'))",BUR 224ECJ 3.406,Face-to-face,"BOYLES, STEPHEN",open; reserved,,
+C L  315 WORLD LITERATURE         ,33355,"(('MW', '1:00 p.m.-2:30 p.m.'), ('M', '3:00 p.m.-4:00 p.m.'))",BUR 134GAR 0.128,Face-to-face,"GARZA, THOMAS JESUS",open,Global Cultures,Humanities
+C L  315 WORLD LITERATURE         ,33360,"(('MW', '1:00 p.m.-2:30 p.m.'), ('M', '4:00 p.m.-5:00 p.m.'))",BUR 134GAR 0.128,Face-to-face,"GARZA, THOMAS JESUS",open,Global Cultures,Humanities
+CH  376K ADVANCED ANALYTICAL CHEMISTRY         ,50425,"(('MW', '1:00 p.m.-2:00 p.m.'), ('T', '9:30 a.m.-12:30 p.m.'))",,Face-to-face,"SHEAR, JASON BHERATH, THUSHANI",cancelled,Quantitative ReasoningIndependent InquiryWriting,
+CH  376K ADVANCED ANALYTICAL CHEMISTRY         ,50430,"(('MW', '1:00 p.m.-2:00 p.m.'), ('W', '2:00 p.m.-5:00 p.m.'))",,Face-to-face,"LAUDE, DAVID AHERATH, THUSHANI",open; reserved,Quantitative ReasoningIndependent InquiryWriting,
+CH  376K ADVANCED ANALYTICAL CHEMISTRY         ,50435,"(('MW', '1:00 p.m.-2:00 p.m.'), ('TH', '2:00 p.m.-5:00 p.m.'))",WEL 4.124,Face-to-face,"SHEAR, JASON BHERATH, THUSHANI",open; reserved,Quantitative ReasoningIndependent InquiryWriting,
+CMS  354 CONFLICT RESOLUTION         ,08275,"(('MW', '1:00 p.m.-2:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",CMA 3.124,Hybrid or Blended,"BRADFORD, KATIE ELIZABETH",open,WritingIndependent InquiryEthics,
+E  316N WORLD LITERATURE         ,34755,"(('MW', '1:00 p.m.-2:30 p.m.'), ('M', '3:00 p.m.-4:00 p.m.'))",BUR 134GAR 0.128,Face-to-face,"GARZA, THOMAS JESUS",open,Global Cultures,Humanities
+E  316N WORLD LITERATURE         ,34760,"(('MW', '1:00 p.m.-2:30 p.m.'), ('M', '4:00 p.m.-5:00 p.m.'))",BUR 134GAR 0.128,Face-to-face,"GARZA, THOMAS JESUS",open,Global Cultures,Humanities
+GEO  303 INTRODUCTION TO GEOLOGY         ,26760,"(('MW', '1:00 p.m.-2:00 p.m.'), ('W', '8:00 a.m.-10:00 a.m.'))",JGB 2.324JGB 2.306,Face-to-face,"KETCHAM, RICHARD ACARDENAS, MEINHARD BAYANI",open,,"Natural Science and Technology, Part I"
+GEO  303 INTRODUCTION TO GEOLOGY         ,26765,"(('MW', '1:00 p.m.-2:00 p.m.'), ('M', '10:00 a.m.-12:00 p.m.'))",JGB 2.324JGB 2.306,Face-to-face,"KETCHAM, RICHARD ACARDENAS, MEINHARD BAYANI",open,,"Natural Science and Technology, Part I"
+GEO  303 INTRODUCTION TO GEOLOGY         ,26770,"(('MW', '1:00 p.m.-2:00 p.m.'), ('TH', '10:00 a.m.-12:00 p.m.'))",JGB 2.324JGB 2.306,Face-to-face,"KETCHAM, RICHARD ACARDENAS, MEINHARD BAYANI",open,,"Natural Science and Technology, Part I"
+GEO  303 INTRODUCTION TO GEOLOGY         ,26775,"(('MW', '1:00 p.m.-2:00 p.m.'), ('F', '10:00 a.m.-12:00 p.m.'))",JGB 2.324JGB 2.306,Face-to-face,"KETCHAM, RICHARD ACARDENAS, MEINHARD BAYANI",open,,"Natural Science and Technology, Part I"
+GEO  303 INTRODUCTION TO GEOLOGY         ,26780,"(('MW', '1:00 p.m.-2:00 p.m.'), ('T', '12:00 p.m.-2:00 p.m.'))",JGB 2.324JGB 2.306,Face-to-face,"KETCHAM, RICHARD ACARDENAS, MEINHARD BAYANI",open,,"Natural Science and Technology, Part I"
+GEO  303 INTRODUCTION TO GEOLOGY         ,26785,"(('MW', '1:00 p.m.-2:00 p.m.'), ('W', '2:00 p.m.-4:00 p.m.'))",JGB 2.324JGB 2.306,Face-to-face,"KETCHAM, RICHARD ACARDENAS, MEINHARD BAYANI",open,,"Natural Science and Technology, Part I"
+GEO  303 INTRODUCTION TO GEOLOGY         ,26790,"(('MW', '1:00 p.m.-2:00 p.m.'), ('M', '4:00 p.m.-6:00 p.m.'))",JGB 2.324JGB 2.306,Face-to-face,"KETCHAM, RICHARD ACARDENAS, MEINHARD BAYANI",open,,"Natural Science and Technology, Part I"
+GEO  303 INTRODUCTION TO GEOLOGY         ,26795,"(('MW', '1:00 p.m.-2:00 p.m.'), ('T', '4:00 p.m.-6:00 p.m.'))",JGB 2.324JGB 2.306,Face-to-face,"KETCHAM, RICHARD ACARDENAS, MEINHARD BAYANI",open,,"Natural Science and Technology, Part I"
+GEO  303 INTRODUCTION TO GEOLOGY         ,26800,"(('MW', '1:00 p.m.-2:00 p.m.'), ('TH', '4:00 p.m.-6:00 p.m.'))",JGB 2.324JGB 2.306,Face-to-face,"KETCHAM, RICHARD ACARDENAS, MEINHARD BAYANI",open,,"Natural Science and Technology, Part I"
+GOV  357E SUPREME COURT AND PUBL POLICY         ,37440,"(('MW', '1:00 p.m.-2:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",TNH 2.114GAR 3.116,Face-to-face,"POWE, LUCAS A JR",open,,
+GOV  357E SUPREME COURT AND PUBL POLICY         ,37445,"(('MW', '1:00 p.m.-2:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",TNH 2.114JES A203A,Face-to-face,"POWE, LUCAS A JR",open,,
+GOV  357E SUPREME COURT AND PUBL POLICY         ,37450,"(('MW', '1:00 p.m.-2:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",TNH 2.114JES A209A,Face-to-face,"POWE, LUCAS A JR",open,,
+GOV  357E SUPREME COURT AND PUBL POLICY         ,37455,"(('MW', '1:00 p.m.-2:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",TNH 2.114JES A218A,Face-to-face,"POWE, LUCAS A JR",open,,
+GRG  460G ENVIR GEOGRAPHIC INFO SYSTEMS         ,36275,"(('MW', '1:00 p.m.-2:30 p.m.'), ('M', '9:00 a.m.-11:00 a.m.'))",RLP 0.112RLP 1.404,Face-to-face,"GARRISON, THOMAS",open; reserved,Quantitative Reasoning,
+GRG  460G ENVIR GEOGRAPHIC INFO SYSTEMS         ,36280,"(('MW', '1:00 p.m.-2:30 p.m.'), ('W', '9:00 a.m.-11:00 a.m.'))",RLP 0.112RLP 1.404,Face-to-face,"GARRISON, THOMAS",open; reserved,Quantitative Reasoning,
+GRG  460G ENVIR GEOGRAPHIC INFO SYSTEMS         ,36285,"(('MW', '1:00 p.m.-2:30 p.m.'), ('T', '12:00 p.m.-2:00 p.m.'))",RLP 0.112RLP 1.404,Face-to-face,"GARRISON, THOMAS",open; reserved,Quantitative Reasoning,
+GRG  460G ENVIR GEOGRAPHIC INFO SYSTEMS         ,36290,"(('MW', '1:00 p.m.-2:30 p.m.'), ('TH', '12:00 p.m.-2:00 p.m.'))",RLP 0.112RLP 1.404,Face-to-face,"GARRISON, THOMAS",open; reserved,Quantitative Reasoning,
+HIN  507 FIRST-YEAR HINDI II         ,32195,"(('MW', '1:00 p.m.-2:00 p.m.'), ('TTH', '12:30 p.m.-2:00 p.m.'))",PAR 310MEZ 2.124,Face-to-face,"SANCHEZ LOZOYA, ZELTZYN R",open,,
+SDS  320E ELEMENTS OF STATISTICS         ,56580,"(('MW', '1:00 p.m.-2:30 p.m.'), ('T', '4:00 p.m.-5:00 p.m.'))",BEL 328FAC 101B,Face-to-face,"PARAST, LAYLA",open,Independent InquiryEthicsQuantitative Reasoning,Mathematics
+SDS  320E ELEMENTS OF STATISTICS         ,56585,"(('MW', '1:00 p.m.-2:30 p.m.'), ('T', '5:00 p.m.-6:00 p.m.'))",BEL 328FAC 101B,Face-to-face,"PARAST, LAYLA",open,Independent InquiryEthicsQuantitative Reasoning,Mathematics
+SDS  320E ELEMENTS OF STATISTICS         ,56590,"(('MW', '1:00 p.m.-2:30 p.m.'), ('T', '6:00 p.m.-7:00 p.m.'))",BEL 328FAC 101B,Face-to-face,"PARAST, LAYLA",open,Independent InquiryEthicsQuantitative Reasoning,Mathematics
+SDS  320E ELEMENTS OF STATISTICS         ,56595,"(('MW', '1:00 p.m.-2:30 p.m.'), ('TH', '9:00 a.m.-10:00 a.m.'))",UTC 4.112FAC 101B,Face-to-face,"BLONDEAU, LAUREN ALEXANDR",open,Independent InquiryEthicsQuantitative Reasoning,Mathematics
+SDS  320E ELEMENTS OF STATISTICS         ,56600,"(('MW', '1:00 p.m.-2:30 p.m.'), ('TH', '10:00 a.m.-11:00 a.m.'))",UTC 4.112FAC 101B,Face-to-face,"BLONDEAU, LAUREN ALEXANDR",open,Independent InquiryEthicsQuantitative Reasoning,Mathematics
+SOC  317L INTRO TO SOCIAL STATISTICS         ,43190,"(('MW', '1:00 p.m.-2:30 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",JGB 2.202RLP 1.404,Face-to-face,"CARAMANIS, CHRISTINA NEFE",open,Quantitative Reasoning,Mathematics
+UGS  303 HUMANS AND AI         ,61215,"(('MW', '1:00 p.m.-2:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",WAG 420MAI 220B,Face-to-face,"ERK, KATRIN EHANDMAN, COURTNEY",open,,First-Year Signature Course
+UGS  303 HUMANS AND AI         ,61220,"(('MW', '1:00 p.m.-2:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",WAG 420MAI 220B,Face-to-face,"ERK, KATRIN EHANDMAN, COURTNEY",open,,First-Year Signature Course
+UGS  303 HUMANS AND AI         ,61225,"(('MW', '1:00 p.m.-2:00 p.m.'), ('F', '2:00 p.m.-3:00 p.m.'))",WAG 420MAI 220B,Face-to-face,"ERK, KATRIN EHANDMAN, COURTNEY",open,,First-Year Signature Course
+UGS  303 THE PREHISTORY OF FOOD         ,61670,"(('MW', '1:00 p.m.-2:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",RLP 0.126PAR 305,Face-to-face,"ROSEN, ARLENE",open,EthicsGlobal Cultures,First-Year Signature Course
+UGS  303 THE PREHISTORY OF FOOD         ,61675,"(('MW', '1:00 p.m.-2:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",RLP 0.126PAR 305,Face-to-face,"ROSEN, ARLENE",open,EthicsGlobal Cultures,First-Year Signature Course
+UGS  303 THE PREHISTORY OF FOOD         ,61680,"(('MW', '1:00 p.m.-2:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",RLP 0.126CAL 221,Face-to-face,"ROSEN, ARLENE",open,EthicsGlobal Cultures,First-Year Signature Course
+UGS  303 THE PREHISTORY OF FOOD         ,61685,"(('MW', '1:00 p.m.-2:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",RLP 0.126PAR 305,Face-to-face,"ROSEN, ARLENE",open,EthicsGlobal Cultures,First-Year Signature Course
+UGS  303 THE PREHISTORY OF FOOD         ,61690,"(('MW', '1:00 p.m.-2:00 p.m.'), ('F', '2:00 p.m.-3:00 p.m.'))",RLP 0.126CAL 221,Face-to-face,"ROSEN, ARLENE",open,EthicsGlobal Cultures,First-Year Signature Course
+UGS  303 THE PREHISTORY OF FOOD         ,61695,"(('MW', '1:00 p.m.-2:00 p.m.'), ('F', '3:00 p.m.-4:00 p.m.'))",RLP 0.126CAL 221,Face-to-face,"ROSEN, ARLENE",open,EthicsGlobal Cultures,First-Year Signature Course
+ARC  561R ADV ARCH DESIGN         ,00895,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  561R ADV ARCH DESIGN         ,00900,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open,,
+ARC  561R ADV ARCH DESIGN         ,00905,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  561R ADV ARCH DESIGN         ,00910,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open,,
+ARC  561R ADV ARCH DESIGN         ,00915,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  561R ADV ARCH DESIGN         ,00920,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open,,
+ARC  561R ADV ARCH DESIGN         ,00925,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  561R ADV ARCH DESIGN         ,00930,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  561R ADV ARCH DESIGN         ,00935,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  561R ADV ARCH DESIGN         ,00940,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  561R ADV ARCH DESIGN         ,00945,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  561R ADV ARCH DESIGN         ,00950,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  561R ADV ARCH DESIGN         ,00955,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open,,
+ARC  695S ADV ARCH DESIGN: INT STUDIO         ,01215,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  696 ADV ARCH DESIGN         ,01220,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  696 ADV ARCH DESIGN         ,01225,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  696 ADV ARCH DESIGN         ,01230,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  696 ADV ARCH DESIGN         ,01235,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  696 ADV ARCH DESIGN         ,01240,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  696 ADV ARCH DESIGN         ,01245,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  696 ADV ARCH DESIGN         ,01250,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  696 ADV ARCH DESIGN         ,01255,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  696 ADV ARCH DESIGN         ,01260,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  696 ADV ARCH DESIGN         ,01265,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  696 ADV ARCH DESIGN         ,01270,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARC  696 ADV ARCH DESIGN         ,01275,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",GOL 3.126GOL 3.126,Face-to-face,,open; reserved,,
+ARI  560R ADV ARCH DESIGN         ,00390,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARI  560R ADV ARCH DESIGN         ,00395,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARI  560R ADV ARCH DESIGN         ,00400,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARI  696 ADV ARCH DESIGN         ,00455,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARI  696 ADV ARCH DESIGN         ,00460,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARI  696 ADV ARCH DESIGN         ,00465,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARI  696 ADV ARCH DESIGN         ,00470,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ARI  696 ADV ARCH DESIGN         ,00475,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ECE  411 CIRCUIT THEORY         ,16615,"(('MW', '1:30 p.m.-3:00 p.m.'), ('T', '3:30 p.m.-5:30 p.m.'))",ECJ 1.214EER 0.818,Face-to-face,"SWARTZLANDER, EARL E JR",open; reserved,,
+ECE  411 CIRCUIT THEORY         ,16620,"(('MW', '1:30 p.m.-3:00 p.m.'), ('T', '5:30 p.m.-7:30 p.m.'))",ECJ 1.214EER 0.818,Face-to-face,"SWARTZLANDER, EARL E JR",open; reserved,,
+ECE  319K INTRO TO EMBEDDED SYSTEMS         ,16830,"(('MW', '1:30 p.m.-3:00 p.m.'), ('W', '3:00 p.m.-4:00 p.m.'))",ECJ 1.202EER 1.826,Face-to-face,"TELANG, VIVEK",open; reserved,,
+ECE  319K INTRO TO EMBEDDED SYSTEMS         ,16835,"(('MW', '1:30 p.m.-3:00 p.m.'), ('W', '4:00 p.m.-5:00 p.m.'))",ECJ 1.202EER 1.826,Face-to-face,"TELANG, VIVEK",open; reserved,,
+ECE  319K INTRO TO EMBEDDED SYSTEMS         ,16840,"(('MW', '1:30 p.m.-3:00 p.m.'), ('W', '5:00 p.m.-6:00 p.m.'))",ECJ 1.202EER 1.826,Face-to-face,"TELANG, VIVEK",open; reserved,,
+ECE  319K INTRO TO EMBEDDED SYSTEMS         ,16845,"(('MW', '1:30 p.m.-3:00 p.m.'), ('W', '6:00 p.m.-7:00 p.m.'))",ECJ 1.202EER 1.826,Face-to-face,"TELANG, VIVEK",open; reserved,,
+J  331G AUDIO STORYTELLING         ,08750,"(('MW', '1:30 p.m.-3:00 p.m.'), ('F', '2:00 p.m.-5:00 p.m.'))",CMA 4.150DMC 3.210,Face-to-face,"RIVAS-RODRIGUEZ, MARY MAG",open,Independent Inquiry,
+LAR  696 ADV ARCH DESIGN         ,01690,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+LAR  696 ADV ARCH DESIGN         ,01695,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open,,
+LAR  696 ADV ARCH DESIGN         ,01700,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",GOL 3.126,Face-to-face,,open; reserved,,
+LAR  696 ADV ARCH DESIGN         ,01705,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",GOL 4.106,Face-to-face,,open; reserved,,
+U D  696 ADV ARCH DESIGN         ,01795,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+U D  696 ADV ARCH DESIGN         ,01800,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",GOL 3.126,Face-to-face,,open,,
+U D  696C URBAN DESIGN OPTIONS STUDIO         ,01805,"(('MW', '1:30 p.m.-5:30 p.m.'), ('F', '1:30 p.m.-3:30 p.m.'))",,Face-to-face,,open; reserved,,
+ANT  302 CULTURAL ANTHROPOLOGY         ,31116,"(('MW', '2:00 p.m.-3:00 p.m.'), ('T', '4:00 p.m.-5:00 p.m.'))",WAG 101WCP 4.118,Face-to-face,"CAMPBELL, CRAIG A",open,Global Cultures,Social and Behavioral Sciences
+ANT  302 CULTURAL ANTHROPOLOGY         ,31117,"(('MW', '2:00 p.m.-3:00 p.m.'), ('M', '4:00 p.m.-5:00 p.m.'))",WAG 101WCP 4.118,Face-to-face,"CAMPBELL, CRAIG A",open,Global Cultures,Social and Behavioral Sciences
+ANT  302 CULTURAL ANTHROPOLOGY         ,31118,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",WAG 101WCP 4.118,Face-to-face,"CAMPBELL, CRAIG A",open,Global Cultures,Social and Behavioral Sciences
+ANT  302 CULTURAL ANTHROPOLOGY         ,31119,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",WAG 101WCP 4.118,Face-to-face,"CAMPBELL, CRAIG A",open,Global Cultures,Social and Behavioral Sciences
+ANT  307 CULTURE AND COMMUNICATION         ,31196,"(('MW', '2:00 p.m.-3:00 p.m.'), ('M', '5:00 p.m.-6:00 p.m.'))",FAC 21WCP 4.118,Face-to-face,"SLOTTA, JAMES",open,Global CulturesCultural Diversity,Social and Behavioral Sciences
+ANT  307 CULTURE AND COMMUNICATION         ,31197,"(('MW', '2:00 p.m.-3:00 p.m.'), ('T', '4:30 p.m.-5:30 p.m.'))",FAC 21WCP 4.118,Face-to-face,"SLOTTA, JAMES",open,Global CulturesCultural Diversity,Social and Behavioral Sciences
+ANT  307 CULTURE AND COMMUNICATION         ,31198,"(('MW', '2:00 p.m.-3:00 p.m.'), ('W', '8:00 a.m.-9:00 a.m.'))",FAC 21WCP 4.118,Face-to-face,"SLOTTA, JAMES",open,Global CulturesCultural Diversity,Social and Behavioral Sciences
+ANT  307 CULTURE AND COMMUNICATION         ,31199,"(('MW', '2:00 p.m.-3:00 p.m.'), ('W', '5:00 p.m.-6:00 p.m.'))",FAC 21WCP 4.118,Face-to-face,"SLOTTA, JAMES",open,Global CulturesCultural Diversity,Social and Behavioral Sciences
+ANT  307 CULTURE AND COMMUNICATION         ,31201,"(('MW', '2:00 p.m.-3:00 p.m.'), ('TH', '4:00 p.m.-5:00 p.m.'))",FAC 21WCP 4.118,Face-to-face,"SLOTTA, JAMES",open,Global CulturesCultural Diversity,Social and Behavioral Sciences
+ANT  307 CULTURE AND COMMUNICATION         ,31202,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",FAC 21WCP 4.118,Face-to-face,"SLOTTA, JAMES",open,Global CulturesCultural Diversity,Social and Behavioral Sciences
+ANT  307 CULTURE AND COMMUNICATION         ,31203,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",FAC 21WCP 4.118,Face-to-face,"SLOTTA, JAMES",open,Global CulturesCultural Diversity,Social and Behavioral Sciences
+ANT  307 CULTURE AND COMMUNICATION         ,31204,"(('MW', '2:00 p.m.-3:00 p.m.'), ('T', '8:30 a.m.-9:30 a.m.'))",FAC 21WCP 4.118,Face-to-face,"SLOTTA, JAMES",open,Global CulturesCultural Diversity,Social and Behavioral Sciences
+ASE  375 ELECTROMECHANICAL SYSTEMS         ,14115,"(('MW', '2:00 p.m.-3:00 p.m.'), ('M', '3:00 p.m.-6:00 p.m.'))",ASE 1.126ASE 2.116,Face-to-face,"SIROHI, JAYANT",open; reserved,,
+ASE  375 ELECTROMECHANICAL SYSTEMS         ,14120,"(('MW', '2:00 p.m.-3:00 p.m.'), ('W', '3:00 p.m.-6:00 p.m.'))",ASE 1.126ASE 2.116,Face-to-face,"SIROHI, JAYANT",open; reserved,,
+ASE  375 ELECTROMECHANICAL SYSTEMS         ,14125,"(('MW', '2:00 p.m.-3:00 p.m.'), ('T', '3:30 p.m.-6:30 p.m.'))",ASE 1.126ASE 2.116,Face-to-face,"SIROHI, JAYANT",open; reserved,,
+ASE  375 ELECTROMECHANICAL SYSTEMS         ,14130,"(('MW', '2:00 p.m.-3:00 p.m.'), ('TH', '3:30 p.m.-6:30 p.m.'))",ASE 1.126ASE 2.116,Face-to-face,"SIROHI, JAYANT",open; reserved,,
+ASE  375 ELECTROMECHANICAL SYSTEMS         ,14135,"(('MW', '2:00 p.m.-3:00 p.m.'), ('M', '6:00 p.m.-9:00 p.m.'))",ASE 1.126ASE 2.116,Face-to-face,"SIROHI, JAYANT",open; reserved,,
+ASE  375 ELECTROMECHANICAL SYSTEMS         ,14140,"(('MW', '2:00 p.m.-3:00 p.m.'), ('W', '6:00 p.m.-9:00 p.m.'))",ASE 1.126ASE 2.116,Face-to-face,"SIROHI, JAYANT",open; reserved,,
+BEN  507 FIRST-YEAR BENGALI II         ,32005,"(('MW', '2:00 p.m.-3:00 p.m.'), ('TTH', '11:00 a.m.-12:30 p.m.'))",GAR 2.124RLP 0.124,Face-to-face,"SHAMIM, AHMED",open,,
+CGS  365 BIAS         ,29170,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '2:00 p.m.-3:00 p.m.'))",BUR 224GAR 2.128,Face-to-face,"BEAVER, DAVID I",open,Ethics,
+CMS  346 USING COMM TECHNOLOGY AT WORK         ,08245,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '2:00 p.m.-3:00 p.m.'))",DMC 3.206,Hybrid or Blended,"SHOREY, SAMANTHA",open,Independent Inquiry,
+GEO  420K INTRO TO FIELD/STRAT METHS         ,26910,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '2:00 p.m.-5:00 p.m.'))",JGB 3.222EPS 2.104,Face-to-face,"MALKOWSKI, MATTHEW ALANBARQUERO-MOLINA, MIRIAM",open; reserved,,
+GEO  420K INTRO TO FIELD/STRAT METHS         ,26915,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '2:00 p.m.-5:00 p.m.'))",JGB 3.222EPS 2.136,Face-to-face,"MALKOWSKI, MATTHEW ALANBARQUERO-MOLINA, MIRIAM",open; reserved,,
+GEO  420K INTRO TO FIELD/STRAT METHS         ,26920,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '2:00 p.m.-5:00 p.m.'))",JGB 3.222EPS 4.104,Face-to-face,"MALKOWSKI, MATTHEW ALANBARQUERO-MOLINA, MIRIAM",open; reserved,,
+GER  507 FIRST-YEAR GERMAN II         ,36760,"(('MW', '2:00 p.m.-3:00 p.m.'), ('TTH', '2:00 p.m.-3:30 p.m.'))",JES A303AJES A303A,Face-to-face,"EWING, KAREN J",open,,
+H S  341 HEALTH AND JUSTICE         ,29445,"(('MW', '2:00 p.m.-3:00 p.m.'), ('W', '10:00 a.m.-11:00 a.m.'))",WAG 302PMA 7.112,Face-to-face,"SMITH, NICOLE",open; reserved,Ethics,
+H S  341 HEALTH AND JUSTICE         ,29450,"(('MW', '2:00 p.m.-3:00 p.m.'), ('W', '11:00 a.m.-12:00 p.m.'))",WAG 302PMA 7.112,Face-to-face,"SMITH, NICOLE",open; reserved,Ethics,
+H S  341 HEALTH AND JUSTICE         ,29455,"(('MW', '2:00 p.m.-3:00 p.m.'), ('W', '12:00 p.m.-1:00 p.m.'))",WAG 302PMA 6.112,Face-to-face,"SMITH, NICOLE",open; reserved,Ethics,
+HDO  365 BIAS         ,29580,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '2:00 p.m.-3:00 p.m.'))",BUR 224GAR 2.128,Face-to-face,"BEAVER, DAVID I",open; reserved,Ethics,
+HDO  365 BIAS         ,29585,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '3:00 p.m.-4:00 p.m.'))",BUR 224GAR 2.128,Face-to-face,"BEAVER, DAVID I",open,Ethics,
+HIN  507 FIRST-YEAR HINDI II         ,32200,"(('MW', '2:00 p.m.-3:00 p.m.'), ('TTH', '12:30 p.m.-2:00 p.m.'))",BEN 1.106MEZ 2.124,Face-to-face,"SANCHEZ LOZOYA, ZELTZYN R",open,,
+HIN  612 ACCELERATED SECOND-YEAR HINDI         ,32205,"(('MW', '2:00 p.m.-3:30 p.m.'), ('TTH', '2:00 p.m.-3:30 p.m.'))",MEZ 2.118MEZ 2.122,Face-to-face,"SHAH, GAUTAMI HIRU",open,,
+LIN  312C CULTURE AND COMMUNICATION         ,38941,"(('MW', '2:00 p.m.-3:00 p.m.'), ('M', '5:00 p.m.-6:00 p.m.'))",FAC 21WCP 4.118,Face-to-face,"SLOTTA, JAMES",open,Global CulturesCultural Diversity,Social and Behavioral Sciences
+LIN  312C CULTURE AND COMMUNICATION         ,38942,"(('MW', '2:00 p.m.-3:00 p.m.'), ('T', '4:30 p.m.-5:30 p.m.'))",FAC 21WCP 4.118,Face-to-face,"SLOTTA, JAMES",open,Cultural DiversityGlobal Cultures,Social and Behavioral Sciences
+LIN  312C CULTURE AND COMMUNICATION         ,38943,"(('MW', '2:00 p.m.-3:00 p.m.'), ('W', '8:00 a.m.-9:00 a.m.'))",FAC 21WCP 4.118,Face-to-face,"SLOTTA, JAMES",open,Global CulturesCultural Diversity,Social and Behavioral Sciences
+LIN  312C CULTURE AND COMMUNICATION         ,38944,"(('MW', '2:00 p.m.-3:00 p.m.'), ('W', '5:00 p.m.-6:00 p.m.'))",FAC 21WCP 4.118,Face-to-face,"SLOTTA, JAMES",open,Cultural DiversityGlobal Cultures,Social and Behavioral Sciences
+LIN  312C CULTURE AND COMMUNICATION         ,38946,"(('MW', '2:00 p.m.-3:00 p.m.'), ('TH', '4:00 p.m.-5:00 p.m.'))",FAC 21WCP 4.118,Face-to-face,"SLOTTA, JAMES",open,Global CulturesCultural Diversity,Social and Behavioral Sciences
+LIN  312C CULTURE AND COMMUNICATION         ,38947,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",FAC 21WCP 4.118,Face-to-face,"SLOTTA, JAMES",open,Cultural DiversityGlobal Cultures,Social and Behavioral Sciences
+LIN  312C CULTURE AND COMMUNICATION         ,38948,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",FAC 21WCP 4.118,Face-to-face,"SLOTTA, JAMES",open,Cultural DiversityGlobal Cultures,Social and Behavioral Sciences
+LIN  312C CULTURE AND COMMUNICATION         ,38949,"(('MW', '2:00 p.m.-3:00 p.m.'), ('T', '8:30 a.m.-9:30 a.m.'))",FAC 21WCP 4.118,Face-to-face,"SLOTTA, JAMES",open,Global CulturesCultural Diversity,Social and Behavioral Sciences
+LIN  365 BIAS         ,39005,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '3:00 p.m.-4:00 p.m.'))",BUR 224GAR 2.128,Face-to-face,"BEAVER, DAVID I",open,Ethics,
+PHL  325J HEALTH AND JUSTICE         ,40525,"(('MW', '2:00 p.m.-3:00 p.m.'), ('W', '10:00 a.m.-11:00 a.m.'))",WAG 302PMA 7.112,Face-to-face,"SMITH, NICOLE",open,Ethics,
+PHL  325J HEALTH AND JUSTICE         ,40530,"(('MW', '2:00 p.m.-3:00 p.m.'), ('W', '11:00 a.m.-12:00 p.m.'))",WAG 302PMA 7.112,Face-to-face,"SMITH, NICOLE",open,Ethics,
+PHL  325J HEALTH AND JUSTICE         ,40535,"(('MW', '2:00 p.m.-3:00 p.m.'), ('W', '12:00 p.m.-1:00 p.m.'))",WAG 302PMA 6.112,Face-to-face,"SMITH, NICOLE",open,Ethics,
+RTF  346 INTRODUCTION TO EDITING         ,09485,"(('MW', '2:00 p.m.-3:30 p.m.'), ('T', '5:00 p.m.-6:30 p.m.'))",CMB 4.114CMB 4.114,Face-to-face,"KOCHER, KAREN J",open,Independent Inquiry,
+RTF  346 INTRODUCTION TO EDITING         ,09490,"(('MW', '2:00 p.m.-3:30 p.m.'), ('T', '6:30 p.m.-8:00 p.m.'))",CMB 4.114CMB 4.114,Face-to-face,"KOCHER, KAREN J",open,Independent Inquiry,
+SDS  320E ELEMENTS OF STATISTICS         ,56605,"(('MW', '2:00 p.m.-3:30 p.m.'), ('TH', '3:00 p.m.-4:00 p.m.'))",UTC 4.124FAC 101B,Face-to-face,"GUYOT, LAYLA",open,Independent InquiryEthicsQuantitative Reasoning,Mathematics
+SDS  320E ELEMENTS OF STATISTICS         ,56610,"(('MW', '2:00 p.m.-3:30 p.m.'), ('TH', '4:00 p.m.-5:00 p.m.'))",UTC 4.124FAC 101B,Face-to-face,"GUYOT, LAYLA",open,Independent InquiryEthicsQuantitative Reasoning,Mathematics
+UGS  303 LANGUAGE AND ETHNIC IDENTITY         ,61300,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",PAR 1MAI 220A,Face-to-face,"TORIBIO, ALMEIDA J",open,,First-Year Signature Course
+UGS  303 LANGUAGE AND ETHNIC IDENTITY         ,61305,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",PAR 1MAI 220A,Face-to-face,"TORIBIO, ALMEIDA J",open,,First-Year Signature Course
+UGS  303 LANGUAGE AND ETHNIC IDENTITY         ,61310,"(('MW', '2:00 p.m.-3:00 p.m.'), ('F', '2:00 p.m.-3:00 p.m.'))",PAR 1MAI 220A,Face-to-face,"TORIBIO, ALMEIDA J",open,,First-Year Signature Course
+UTS  306K HANDS-ON SCIENCE II         ,46670,"(('MW', '2:00 p.m.-4:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",PMA 7.114PMA 7.114,Face-to-face,"DUNN, DENNIS P",open; reserved,,"Natural Science and Technology, Part I"
+ECO  420K MICROECONOMIC THEORY         ,33665,"(('MW', '2:30 p.m.-4:00 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",WAG 420,Face-to-face,"IKIZLER, DEVRIM",open,,
+ECO  420K MICROECONOMIC THEORY         ,33670,"(('MW', '2:30 p.m.-4:00 p.m.'), ('F', '4:00 p.m.-5:00 p.m.'))",WAG 420,Face-to-face,"IKIZLER, DEVRIM",open,,
+GEO  405 LIFE THROUGH TIME         ,26815,"(('MW', '2:30 p.m.-4:00 p.m.'), ('T', '11:00 a.m.-1:00 p.m.'))",JGB 2.218JGB 3.116,Face-to-face,"MARTINDALE, ROWAN CLARE",open,,"Natural Science and Technology, Part I"
+GEO  405 LIFE THROUGH TIME         ,26820,"(('MW', '2:30 p.m.-4:00 p.m.'), ('W', '11:00 a.m.-1:00 p.m.'))",JGB 2.218JGB 3.116,Face-to-face,"MARTINDALE, ROWAN CLARE",open,,"Natural Science and Technology, Part I"
+GEO  405 LIFE THROUGH TIME         ,26825,"(('MW', '2:30 p.m.-4:00 p.m.'), ('F', '11:00 a.m.-1:00 p.m.'))",JGB 2.218JGB 3.116,Face-to-face,"MARTINDALE, ROWAN CLARE",open,,"Natural Science and Technology, Part I"
+GEO  405 LIFE THROUGH TIME         ,26830,"(('MW', '2:30 p.m.-4:00 p.m.'), ('TH', '2:00 p.m.-4:00 p.m.'))",JGB 2.218JGB 3.116,Face-to-face,"MARTINDALE, ROWAN CLARE",open,,"Natural Science and Technology, Part I"
+PSY  420M PSYCHGCL METHODS/STATISTICS         ,41160,"(('MW', '2:30 p.m.-4:00 p.m.'), ('F', '12:00 p.m.-2:00 p.m.'))",BUR 112ETC 2.114,Face-to-face,"JOSEPHS, ROBERT A",open; reserved,Quantitative ReasoningIndependent InquiryWriting,
+PSY  420M PSYCHGCL METHODS/STATISTICS         ,41165,"(('MW', '2:30 p.m.-4:00 p.m.'), ('F', '12:00 p.m.-2:00 p.m.'))",BUR 112RLP 0.122,Face-to-face,"JOSEPHS, ROBERT A",open; reserved,Quantitative ReasoningIndependent InquiryWriting,
+PSY  420M PSYCHGCL METHODS/STATISTICS         ,41208,"(('MW', '2:30 p.m.-4:00 p.m.'), ('F', '10:00 a.m.-12:00 p.m.'))",BUR 112SEA 2.108,Face-to-face,"JOSEPHS, ROBERT A",open; reserved,WritingQuantitative ReasoningIndependent Inquiry,
+PSY  420M PSYCHGCL METHODS/STATISTICS         ,41209,"(('MW', '2:30 p.m.-4:00 p.m.'), ('F', '10:00 a.m.-12:00 p.m.'))",BUR 112ETC 2.114,Face-to-face,"JOSEPHS, ROBERT A",open; reserved,Quantitative ReasoningIndependent InquiryWriting,
+C S  329E ELEMENTS OF GAME DEVELOPMENT         ,50905,"(('MW', '3:00 p.m.-4:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",JGB 2.216GDC 1.304,Face-to-face,"TOPRAC, PAUL K",open; reserved,,
+CMS  359T HOW PEOPLE TALK         ,08300,"(('MW', '3:00 p.m.-4:00 p.m.'), ('F', '3:00 p.m.-4:00 p.m.'))",CMA 3.116,Hybrid or Blended,"STREECK, JURGEN K",open,Independent Inquiry,
+ECE  306 INTRODUCTION TO COMPUTING         ,16580,"(('MW', '3:00 p.m.-4:30 p.m.'), ('F', '9:00 a.m.-10:00 a.m.'))",CPE 2.214ECJ 1.304,Face-to-face,"TELANG, NINA K",open; reserved,,
+ECE  306 INTRODUCTION TO COMPUTING         ,16585,"(('MW', '3:00 p.m.-4:30 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",CPE 2.214ECJ 1.304,Face-to-face,"TELANG, NINA K",open; reserved,,
+ECE  306 INTRODUCTION TO COMPUTING         ,16590,"(('MW', '3:00 p.m.-4:30 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",CPE 2.214ECJ 1.304,Face-to-face,"TELANG, NINA K",open; reserved,,
+ECE  306 INTRODUCTION TO COMPUTING         ,16595,"(('MW', '3:00 p.m.-4:30 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",CPE 2.214ECJ 1.304,Face-to-face,"TELANG, NINA K",open; reserved,,
+ECE  411 CIRCUIT THEORY         ,16625,"(('MW', '3:00 p.m.-4:30 p.m.'), ('T', '9:00 a.m.-11:00 a.m.'))",ECJ 1.214EER 0.818,Face-to-face,"JIA, YAOYAO",open; reserved,,
+ECE  411 CIRCUIT THEORY         ,16630,"(('MW', '3:00 p.m.-4:30 p.m.'), ('M', '6:30 p.m.-8:30 p.m.'))",ECJ 1.214EER 0.818,Face-to-face,"JIA, YAOYAO",open; reserved,,
+ECE  319K INTRO TO EMBEDDED SYSTEMS         ,16850,"(('MW', '3:00 p.m.-4:30 p.m.'), ('T', '2:00 p.m.-3:00 p.m.'))",ETC 2.136EER 1.826,Face-to-face,"HOLT, LUCAS M",open; reserved,,
+ECE  319K INTRO TO EMBEDDED SYSTEMS         ,16855,"(('MW', '3:00 p.m.-4:30 p.m.'), ('T', '3:00 p.m.-4:00 p.m.'))",ETC 2.136EER 1.826,Face-to-face,"HOLT, LUCAS M",open; reserved,,
+ECE  319K INTRO TO EMBEDDED SYSTEMS         ,16860,"(('MW', '3:00 p.m.-4:30 p.m.'), ('T', '4:00 p.m.-5:00 p.m.'))",ETC 2.136EER 1.826,Face-to-face,"HOLT, LUCAS M",open; reserved,,
+ECE  319K INTRO TO EMBEDDED SYSTEMS         ,16865,"(('MW', '3:00 p.m.-4:30 p.m.'), ('T', '5:00 p.m.-6:00 p.m.'))",ETC 2.136EER 1.826,Face-to-face,"HOLT, LUCAS M",open; reserved,,
+ECE  464H HONORS SENIOR DESIGN PROJECT         ,17195,"(('MW', '3:00 p.m.-4:30 p.m.'), ('MW', '12:00 p.m.-1:30 p.m.'))",WEL 1.308,Face-to-face,"REGISTER, LEONARD F",open; reserved,Independent Inquiry,
+ECE  464H HONORS SENIOR DESIGN PROJECT         ,17200,"(('MW', '3:00 p.m.-4:30 p.m.'), ('MW', '1:30 p.m.-3:00 p.m.'))",WEL 1.308,Face-to-face,"REGISTER, LEONARD F",open; reserved,Independent Inquiry,
+ECE  464K SENIOR DESIGN PROJECT         ,17205,"(('MW', '3:00 p.m.-4:30 p.m.'), ('MW', '12:00 p.m.-1:30 p.m.'))",WEL 1.308,Face-to-face,"REGISTER, LEONARD F",open; reserved,Independent Inquiry,
+ECE  464K SENIOR DESIGN PROJECT         ,17210,"(('MW', '3:00 p.m.-4:30 p.m.'), ('MW', '1:30 p.m.-3:00 p.m.'))",WEL 1.308,Face-to-face,"REGISTER, LEONARD F",open,Independent Inquiry,
+ECE  464R RESEARCH SENIOR DESIGN PROJECT         ,17215,"(('MW', '3:00 p.m.-4:30 p.m.'), ('MW', '12:00 p.m.-1:30 p.m.'))",WEL 1.308,Face-to-face,"REGISTER, LEONARD F",open; reserved,Independent Inquiry,
+ECE  464R RESEARCH SENIOR DESIGN PROJECT         ,17220,"(('MW', '3:00 p.m.-4:30 p.m.'), ('MW', '1:30 p.m.-3:00 p.m.'))",WEL 1.308,Face-to-face,"REGISTER, LEONARD F",open; reserved,Independent Inquiry,
+EVE  312 ENVIR ENGINEERING/SCIENCE         ,16480,"(('MW', '3:00 p.m.-4:00 p.m.'), ('F', '8:00 a.m.-11:00 a.m.'))",CPE 2.220GLT 3.106,Face-to-face,"SALEH, NAVID",open; reserved,,
+EVE  312 ENVIR ENGINEERING/SCIENCE         ,16485,"(('MW', '3:00 p.m.-4:00 p.m.'), ('TH', '9:30 a.m.-12:30 p.m.'))",CPE 2.220GLT 3.106,Face-to-face,"SALEH, NAVID",open; reserved,,
+EVE  312 ENVIR ENGINEERING/SCIENCE         ,16490,"(('MW', '3:00 p.m.-4:00 p.m.'), ('W', '12:00 p.m.-3:00 p.m.'))",CPE 2.220GLT 3.106,Face-to-face,"SALEH, NAVID",open; reserved,,
+EVE  312 ENVIR ENGINEERING/SCIENCE         ,16495,"(('MW', '3:00 p.m.-4:00 p.m.'), ('F', '1:00 p.m.-4:00 p.m.'))",CPE 2.220GLT 3.106,Face-to-face,"SALEH, NAVID",open; reserved,,
+HED  370K FNDTNS PEER SUPRT/SOC WELLNS         ,12045,"(('MW', '3:00 p.m.-4:00 p.m.'), ('F', '2:00 p.m.-3:00 p.m.'))",SSB G1.310PMA 5.124,Face-to-face,"LANCASTER, ADRIAN J",open; reserved,Ethics,
+HED  370K FNDTNS PEER SUPRT/SOC WELLNS         ,12050,"(('MW', '3:00 p.m.-4:00 p.m.'), ('T', '3:30 p.m.-4:30 p.m.'))",SSB G1.310PMA 5.120,Face-to-face,"LANCASTER, ADRIAN J",open; reserved,Ethics,
+PHL  301 INTRODUCTION TO PHILOSOPHY         ,40250,"(('MW', '3:00 p.m.-4:00 p.m.'), ('F', '10:00 a.m.-11:00 a.m.'))",PAR 201JES A209A,Face-to-face,"MONTAGUE, MICHELLE",open,,
+PHL  301 INTRODUCTION TO PHILOSOPHY         ,40255,"(('MW', '3:00 p.m.-4:00 p.m.'), ('F', '11:00 a.m.-12:00 p.m.'))",PAR 201JES A209A,Face-to-face,"MONTAGUE, MICHELLE",open,,
+PHL  301 INTRODUCTION TO PHILOSOPHY         ,40260,"(('MW', '3:00 p.m.-4:00 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",PAR 201JES A209A,Face-to-face,"MONTAGUE, MICHELLE",open,,
+SOC  385M SOCL STATISTICS: LINEAR MODELS         ,43365,"(('MW', '3:00 p.m.-4:30 p.m.'), ('F', '2:30 p.m.-4:30 p.m.'))",RLP 3.106RLP 1.402,Face-to-face,"LIN, KEN-HOU",open,,
+COM  316 PHOTOGRAPHIC COMMUNICATION         ,06580,"(('MW', '3:30 p.m.-5:00 p.m.'), ('T', '5:00 p.m.-6:30 p.m.'))",CMA 3.120CMA 4.152,Face-to-face,"VALLBONA, RIMA N",open,,
+COM  316 PHOTOGRAPHIC COMMUNICATION         ,06585,"(('MW', '3:30 p.m.-5:00 p.m.'), ('TH', '5:00 p.m.-6:30 p.m.'))",CMA 3.120CMA 4.152,Face-to-face,"VALLBONA, RIMA N",open,,
+CH  302 PRINCIPLES OF CHEMISTRY II         ,49340,"(('MW', '4:00 p.m.-5:30 p.m.'), ('TH', '2:00 p.m.-3:00 p.m.'))",WEL 1.316WEL 4.132B,Face-to-face,"BORDAS, LESLI W",open; reserved,Quantitative Reasoning,"Natural Science and Technology, Part I"
+CH  302 PRINCIPLES OF CHEMISTRY II         ,49345,"(('MW', '4:00 p.m.-5:30 p.m.'), ('TH', '3:00 p.m.-4:00 p.m.'))",WEL 1.316WEL 4.132B,Face-to-face,"BORDAS, LESLI W",open; reserved,Quantitative Reasoning,"Natural Science and Technology, Part I"
+CH  302 PRINCIPLES OF CHEMISTRY II         ,49350,"(('MW', '4:00 p.m.-5:30 p.m.'), ('TH', '4:00 p.m.-5:00 p.m.'))",WEL 1.316WEL 4.132B,Face-to-face,"BORDAS, LESLI W",open; reserved,Quantitative Reasoning,"Natural Science and Technology, Part I"
+CH  302 PRINCIPLES OF CHEMISTRY II         ,49375,"(('MW', '4:00 p.m.-5:30 p.m.'), ('TH', '9:30 a.m.-10:30 a.m.'))",WEL 1.316WEL 4.132B,Face-to-face,"BORDAS, LESLI W",open; reserved,Quantitative Reasoning,"Natural Science and Technology, Part I"
+CH  302 PRINCIPLES OF CHEMISTRY II         ,49380,"(('MW', '4:00 p.m.-5:30 p.m.'), ('TH', '10:30 a.m.-11:30 a.m.'))",WEL 1.316WEL 4.132B,Face-to-face,"BORDAS, LESLI W",open; reserved,Quantitative Reasoning,"Natural Science and Technology, Part I"
+CH  302 PRINCIPLES OF CHEMISTRY II         ,49385,"(('MW', '4:00 p.m.-5:30 p.m.'), ('TH', '12:00 p.m.-1:00 p.m.'))",WEL 1.316WEL 4.132B,Face-to-face,"BORDAS, LESLI W",open; reserved,Quantitative Reasoning,"Natural Science and Technology, Part I"
+PHL  610QB PROBS OF KNOWLEDGE & VALUATION         ,40415,"(('MW', '4:00 p.m.-5:30 p.m.'), ('F', '12:00 p.m.-1:00 p.m.'))",WAG 302CBA 4.338,Face-to-face,"PROOPS, IAN N",open,,
+PHL  610QB PROBS OF KNOWLEDGE & VALUATION         ,40420,"(('MW', '4:00 p.m.-5:30 p.m.'), ('F', '1:00 p.m.-2:00 p.m.'))",WAG 302CBA 4.338,Face-to-face,"PROOPS, IAN N",open,,
+PHL  610QB PROBS OF KNOWLEDGE & VALUATION         ,40425,"(('MW', '4:00 p.m.-5:30 p.m.'), ('F', '2:00 p.m.-3:00 p.m.'))",WAG 302CBA 4.338,Face-to-face,"PROOPS, IAN N",open,,
+ECE  411 CIRCUIT THEORY         ,16635,"(('MW', '5:00 p.m.-6:30 p.m.'), ('T', '11:30 a.m.-1:30 p.m.'))",ECJ 1.214EER 0.818,Face-to-face,"SWARTZLANDER, EARL E JR",open; reserved,,
+ECE  411 CIRCUIT THEORY         ,16640,"(('MW', '5:00 p.m.-6:30 p.m.'), ('T', '1:30 p.m.-3:30 p.m.'))",ECJ 1.214EER 0.818,Face-to-face,"SWARTZLANDER, EARL E JR",open; reserved,,
+ECE  438 FUNDMNTLS ELEC CIRCUITS I LAB         ,16950,"(('MW', '5:00 p.m.-6:30 p.m.'), ('F', '9:00 a.m.-12:00 p.m.'))",GLT 1.106EER 1.828,Face-to-face,"AKINWANDE, DEJI",open,,
+ECE  438 FUNDMNTLS ELEC CIRCUITS I LAB         ,16955,"(('MW', '5:00 p.m.-6:30 p.m.'), ('F', '12:00 p.m.-3:00 p.m.'))",GLT 1.106EER 1.828,Face-to-face,"AKINWANDE, DEJI",open; reserved,,
+ECE  438 FUNDMNTLS ELEC CIRCUITS I LAB         ,16960,"(('MW', '5:00 p.m.-6:30 p.m.'), ('F', '3:00 p.m.-6:00 p.m.'))",GLT 1.106EER 1.828,Face-to-face,"AKINWANDE, DEJI",open; reserved,,
+ECE  460N COMPUTER ARCHITECTURE         ,17110,"(('MW', '5:00 p.m.-6:30 p.m.'), ('F', '12:00 p.m.-1:30 p.m.'))",ECJ 1.204EER 1.512,Face-to-face,"DAS, POULAMI",open; reserved,,
+ECE  460N COMPUTER ARCHITECTURE         ,17115,"(('MW', '5:00 p.m.-6:30 p.m.'), ('F', '3:00 p.m.-4:30 p.m.'))",ECJ 1.204EER 1.512,Face-to-face,"DAS, POULAMI",open; reserved,,
+ECE  460N COMPUTER ARCHITECTURE         ,17120,"(('MW', '5:00 p.m.-6:30 p.m.'), ('TH', '5:00 p.m.-6:30 p.m.'))",ECJ 1.204PMA 5.112,Face-to-face,"DAS, POULAMI",open; reserved,,

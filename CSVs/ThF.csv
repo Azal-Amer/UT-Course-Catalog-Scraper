@@ -1,2 +1,3 @@
-Class Name,Unique,Day,Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
-LAW  280T PERSUASIVE WRTG AND ADVOCACY         ,28055,THF,10:30 a.m.-11:45 a.m.,TNH 3.124,Face-to-face,"PETRIE, SEAN J",open; reserved,,
+Class Name,Unique,Day + Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
+,Unique,(),(),Instruction Mode,Instructor,Status,Flags,Core
+LAW  280T PERSUASIVE WRTG AND ADVOCACY         ,28055,"(('THF', '10:30 a.m.-11:45 a.m.'),)","('TNH 3.124',)",Face-to-face,"PETRIE, SEAN J",open; reserved,,

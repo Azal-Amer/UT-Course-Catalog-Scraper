@@ -1,0 +1,11 @@
+Class Name,Unique,Day + Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
+C S  429 COMP ORGANIZATN AND ARCH         ,50855,"(('MTWTH', '1:00 p.m.-2:00 p.m.'), ('F', '9:00 a.m.-11:00 a.m.'))",GDC 2.216CBA 4.328,Face-to-face,"CHATTERJEE, SIDDHARTHA",open; reserved,,
+C S  429 COMP ORGANIZATN AND ARCH         ,50860,"(('MTWTH', '1:00 p.m.-2:00 p.m.'), ('F', '11:00 a.m.-1:00 p.m.'))",GDC 2.216CBA 4.328,Face-to-face,"CHATTERJEE, SIDDHARTHA",open; reserved,,
+C S  429 COMP ORGANIZATN AND ARCH         ,50865,"(('MTWTH', '1:00 p.m.-2:00 p.m.'), ('F', '1:00 p.m.-3:00 p.m.'))",GDC 2.216BUR 220,Face-to-face,"CHATTERJEE, SIDDHARTHA",open; reserved,,
+C S  429 COMP ORGANIZATN AND ARCH         ,50884,"(('MTWTH', '1:00 p.m.-2:00 p.m.'), ('F', '3:00 p.m.-5:00 p.m.'))",GDC 2.216CBA 4.328,Face-to-face,"CHATTERJEE, SIDDHARTHA",open; reserved,,
+C S  429 COMP ORGANIZATN AND ARCH         ,50870,"(('MTWTH', '2:00 p.m.-3:00 p.m.'), ('F', '9:00 a.m.-11:00 a.m.'))",GDC 2.216SZB 3.814,Face-to-face,"CHATTERJEE, SIDDHARTHA",open; reserved,,
+C S  429 COMP ORGANIZATN AND ARCH         ,50875,"(('MTWTH', '2:00 p.m.-3:00 p.m.'), ('F', '11:00 a.m.-1:00 p.m.'))",GDC 2.216GSB 2.122,Face-to-face,"CHATTERJEE, SIDDHARTHA",open; reserved,,
+C S  429 COMP ORGANIZATN AND ARCH         ,50880,"(('MTWTH', '2:00 p.m.-3:00 p.m.'), ('F', '1:00 p.m.-3:00 p.m.'))",GDC 2.216GSB 2.122,Face-to-face,"CHATTERJEE, SIDDHARTHA",open; reserved,,
+ASE  289 SPACE LAW: INTNL COOP/COMP         ,14250,"(('MTWTH', '5:45 p.m.-8:30 p.m.'), ('FS', '9:30 a.m.-5:30 p.m.'))",TNH 2.140TNH 2.140,Face-to-face,"HOWARD, DIANE",open; reserved,,
+LAW  296W SPACE LAW: INTNL COOP/COMP         ,28705,"(('MTWTH', '5:45 p.m.-8:30 p.m.'), ('FS', '9:30 a.m.-5:30 p.m.'))",TNH 2.140TNH 2.140,Face-to-face,"HOWARD, DIANE",open; reserved,,
+P A  288L SPACE LAW: INTNL COOP/COMP         ,59660,"(('MTWTH', '5:45 p.m.-8:30 p.m.'), ('FS', '9:30 a.m.-5:30 p.m.'))",TNH 2.140TNH 2.140,Face-to-face,"HOWARD, DIANE",open; reserved,,

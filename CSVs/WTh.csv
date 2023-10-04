@@ -1,7 +1,8 @@
-Class Name,Unique,Day,Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
-LAW  391E 1-ENVIRONMENTAL LAW: TOXICS         ,28480,WTH,9:00 a.m.-10:30 a.m.,TNH 3.140,Face-to-face,"WAGNER, WENDY E",open; reserved,,
-PHM  338 INTRODUCTION TO PHARMACOLOGY         ,58430,WTH,9:00 a.m.-10:30 a.m.,NUR 1.112,Face-to-face,"KARBOSKI, JAMES A",open,,
-LAW  396W COPYRIGHT/MED RIGHTS WKSHOP         ,28720,WTH,10:15 a.m.-11:45 a.m.,JON 6.206,Face-to-face,"HART, WILLIAM M",cancelled,,
-LAW  380D SECURED CREDIT         ,27950,WTH,1:00 p.m.-2:30 p.m.,TNH 3.142,Face-to-face,"LITTWIN, ANGELA K",open; reserved,,
-LAW  385 PROFESSIONAL RESPONSIBILITY         ,28315,WTH,1:00 p.m.-2:30 p.m.,TNH 3.140,Face-to-face,"WOOD, LUCILLE D",open; reserved,,
-KIN  386 1-RSCH METHS: PROPOSAL WRITING         ,12725,WTH,3:00 p.m.-4:30 p.m.,BEL 710A,Face-to-face,"BECK, OWEN",open,,
+Class Name,Unique,Day + Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
+,Unique,(),(),Instruction Mode,Instructor,Status,Flags,Core
+LAW  391E 1-ENVIRONMENTAL LAW: TOXICS         ,28480,"(('WTH', '9:00 a.m.-10:30 a.m.'),)","('TNH 3.140',)",Face-to-face,"WAGNER, WENDY E",open; reserved,,
+PHM  338 INTRODUCTION TO PHARMACOLOGY         ,58430,"(('WTH', '9:00 a.m.-10:30 a.m.'),)","('NUR 1.112',)",Face-to-face,"KARBOSKI, JAMES A",open,,
+LAW  396W COPYRIGHT/MED RIGHTS WKSHOP         ,28720,"(('WTH', '10:15 a.m.-11:45 a.m.'),)","('JON 6.206',)",Face-to-face,"HART, WILLIAM M",cancelled,,
+LAW  380D SECURED CREDIT         ,27950,"(('WTH', '1:00 p.m.-2:30 p.m.'),)","('TNH 3.142',)",Face-to-face,"LITTWIN, ANGELA K",open; reserved,,
+LAW  385 PROFESSIONAL RESPONSIBILITY         ,28315,"(('WTH', '1:00 p.m.-2:30 p.m.'),)","('TNH 3.140',)",Face-to-face,"WOOD, LUCILLE D",open; reserved,,
+KIN  386 1-RSCH METHS: PROPOSAL WRITING         ,12725,"(('WTH', '3:00 p.m.-4:30 p.m.'),)","('BEL 710A',)",Face-to-face,"BECK, OWEN",open,,

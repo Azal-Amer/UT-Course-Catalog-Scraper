@@ -1,0 +1,9 @@
+Class Name,Unique,Day + Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
+ARA  531L INTENSIVE ARABIC VI         ,39680,"(('MF', '9:00 a.m.-10:00 a.m.'), ('TTH', '9:30 a.m.-11:00 a.m.'))",CAL 422CAL 422,Face-to-face,,closed,Writing,
+ARA  531L INTENSIVE ARABIC VI         ,39685,"(('MF', '11:00 a.m.-12:00 p.m.'), ('TTH', '11:00 a.m.-12:30 p.m.'))",CAL 422CAL 422,Face-to-face,,open,Writing,
+ARA  381N INTENSV GRAD LANG INSTRUCTN VI         ,39710,"(('MF', '11:00 a.m.-12:00 p.m.'), ('TTH', '11:00 a.m.-12:30 p.m.'))",CAL 422CAL 422,Face-to-face,,open,,
+PRS  611C INTENSIVE PERSIAN II         ,39945,"(('MF', '11:00 a.m.-12:00 p.m.'), ('TH', '11:00 a.m.-12:30 p.m.'), ('T', '11:00 a.m.-12:30 p.m.'))",PAR 101MEZ B0.302,Hybrid or Blended,"TABARRAEE, BABAK",open,,
+PRS  381J INTENSV GRAD LANG INSTRUCTN II         ,39950,"(('MF', '11:00 a.m.-12:00 p.m.'), ('TTH', '11:00 a.m.-12:30 p.m.'), ('T', '11:00 a.m.-12:30 p.m.'))",PAR 101MEZ B0.302,Face-to-face,"TABARRAEE, BABAK",open,,
+AET  377 GAME CAPSTONE: 3-D         ,20960,"(('MF', '12:30 p.m.-2:00 p.m.'), ('W', '5:00 p.m.-8:00 p.m.'))",GDC 4.302GDC 4.302,Face-to-face,"TOPRAC, PAUL K",open; reserved,Independent Inquiry,
+C S  354T GAME DEV CAPSTNE: 3-D GAMES         ,51080,"(('MF', '12:30 p.m.-2:00 p.m.'), ('W', '5:00 p.m.-8:00 p.m.'))",GDC 4.302GDC 4.302,Face-to-face,"TOPRAC, PAUL K",open; reserved,Independent Inquiry,
+RTF  344T 2-GAME DEV CAPSTONE: 3D GAMES         ,09440,"(('MF', '12:30 p.m.-2:00 p.m.'), ('W', '5:00 p.m.-8:00 p.m.'))",GDC 4.302GDC 4.302,Face-to-face,"TOPRAC, PAUL K",open; reserved,Independent Inquiry,

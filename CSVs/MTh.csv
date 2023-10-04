@@ -1,5 +1,6 @@
-Class Name,Unique,Day,Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
-N  290G PSYCH-MENTAL HEALTH NUR PRACT         ,57545,MTH,6:30 a.m.-2:30 p.m.,,Face-to-face,"ROBERTS, ELESHABALLANTINE, MORGAN CLAIRE",open,,
-LAW  383D CRIM PROCEDURE: INVESTIGATION         ,28190,MTH,10:30 a.m.-11:45 a.m.,TNH 2.138,Face-to-face,"KOVARSKY, LEE",open; reserved,,
-T D  353E ACTING AND THE CAMERA II-L A         ,25975,MTH,10:30 a.m.-12:30 p.m.,,Face-to-face,"FAISON, CHRISTYRUDOFSKY, JAMI",open; reserved,,
-DES  690 1-DESIGN IN HEALTH STUDIO         ,21175,MTH,12:00 p.m.-3:00 p.m.,ART 3.410,Face-to-face,"ARTUSI, LUCAS L",open,,
+Class Name,Unique,Day + Hour,Room,Instruction Mode,Instructor,Status,Flags,Core
+,Unique,(),(),Instruction Mode,Instructor,Status,Flags,Core
+N  290G PSYCH-MENTAL HEALTH NUR PRACT         ,57545,"(('MTH', '6:30 a.m.-2:30 p.m.'),)","(' ',)",Face-to-face,"ROBERTS, ELESHABALLANTINE, MORGAN CLAIRE",open,,
+LAW  383D CRIM PROCEDURE: INVESTIGATION         ,28190,"(('MTH', '10:30 a.m.-11:45 a.m.'),)","('TNH 2.138',)",Face-to-face,"KOVARSKY, LEE",open; reserved,,
+T D  353E ACTING AND THE CAMERA II-L A         ,25975,"(('MTH', '10:30 a.m.-12:30 p.m.'),)","(' ',)",Face-to-face,"FAISON, CHRISTYRUDOFSKY, JAMI",open; reserved,,
+DES  690 1-DESIGN IN HEALTH STUDIO         ,21175,"(('MTH', '12:00 p.m.-3:00 p.m.'),)","('ART 3.410',)",Face-to-face,"ARTUSI, LUCAS L",open,,
